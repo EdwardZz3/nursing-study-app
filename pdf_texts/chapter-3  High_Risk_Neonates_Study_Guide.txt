@@ -1,0 +1,312 @@
+UNIT TWO: HIGH-RISK NEONATES
+Definition
+A high-risk neonate is a newborn with an increased likelihood of morbidity and mortality
+due to prenatal, perinatal, or postnatal factors.
+Predisposing Factors
+Maternal:  diabetes, hypertension, labor complications.
+Neonatal:  prematurity, low birth weight, low Apgar, congenital anomalies.
+Nursing Care
+Frequent assessment, monitoring vital signs electronically.
+Minimal handling.
+Monitor feeding reflexes, color, temperature.
+Record fluid intake and weight.
+Document observations carefully.
+Classification of High-Risk Neonates
+Prematurity.
+Physiologic factors (e.g., jaundice).
+Respiratory distress syndrome.
+Infant of diabetic mother.
+Neonatal sepsis.
+Neonatal hypothermia.• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Page 1
+Premature Infants
+Gestational Age and Physical Maturity Assessment
+Gestational age determined by last menstrual period, ultrasound, physical and
+neuromuscular maturity (Ballard score).
+Categories: extremely preterm (<28 weeks), very preterm (28–31 weeks), moderately
+preterm (32–33 weeks), late preterm (34–36 weeks).
+Physical signs include skin texture, lanugo, plantar creases, breast size, ear cartilage,
+genital development.
+Neuromuscular signs: posture, wrist flexibility, arm recoil, popliteal angle, scarf sign,
+heel-to-ear.
+Classification by Birth Weight
+ELBW < 1000 g.
+VLBW 1000-1499 g.
+LBW 1500-2500 g.
+Causes of Prematurity
+Multiple births, maternal infections, toxemia, hemorrhage, malnutrition, uterine
+anomalies, substance abuse, trauma.
+Physical Characteristics
+Small, thin, large head relative to body.
+Wrinkled red skin with lanugo.
+Soft ears, small thorax, protruding abdomen.
+Minimal creases on palms and soles.
+Handicaps
+Poor thermoregulation due to large surface area and immature heat centers.
+Respiratory difficulties from immature lungs, weak muscles, poor cough reflex.
+Immature immune system.
+Biochemical deficits: liver immaturity causing bleeding and jaundice; kidney inability to
+concentrate urine; nutritional deficits.• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Page 2
+Complications
+Intraventricular hemorrhage.
+Hyaline membrane disease.
+Hypoglycemia.
+Apnea.
+Necrotizing enterocolitis.
+Retinopathy of prematurity.
+Kernicterus.
+Prevention
+Early and adequate prenatal care.
+Healthy maternal lifestyle.
+Diagnosis
+Continuous monitoring of vital signs.
+Blood tests for calcium, glucose, bilirubin.
+Imaging for brain, heart, abdomen.
+Eye examinations.
+Care
+Incubator with controlled temperature (32-36°C) and humidity (60-70%).
+Oxygen therapy cautiously to prevent retinopathy.
+Vital sign monitoring.
+Feeding support via IV and NG tube initially.
+Phototherapy for jaundice.
+Blood transfusions as needed.
+Medications: surfactant, antibiotics, diuretics.
+Neonatal Jaundice
+Pathophysiology
+Excess bilirubin (unconjugated and conjugated forms).
+Immature liver unable to metabolize bilirubin efficiently.• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Page 3
+Types
+Physiological jaundice:  appears day 2-3; resolves within two weeks.
+Breast milk jaundice:  occurs days 7-14; due to breast milk substances inhibiting
+bilirubin metabolism.
+Pathological jaundice:  appears within first 24 hours; caused by hemolysis,
+infections, biliary obstruction.
+Complications
+Kernicterus: bilirubin encephalopathy causing irreversible brain damage.
+Management
+Early feeding to promote bilirubin excretion.
+Phototherapy using blue or white light.
+Exchange transfusion for severe cases.
+Respiratory Distress Syndrome (RDS)
+Causes
+Prematurity-related surfactant deficiency.
+Risk factors: cesarean delivery, multiple birth, hypothermia, perinatal asphyxia.
+Clinical Signs
+Tachypnea (>60 breaths/min), cyanosis, nasal flaring, chest retractions, grunting,
+apnea.
+Treatment
+Artificial surfactant via endotracheal tube.
+Oxygen therapy (nasal cannula or oxygen hood).
+CPAP to keep alveoli open.
+Mechanical ventilation if necessary.
+Nursing Care
+Continuous monitoring of oxygen saturation and blood gases.
+Suctioning as needed.
+Mouth care for NPO neonates.• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Page 4
+Infant of Diabetic Mother
+Characteristics
+Large for gestational age.
+Organomegaly (liver, heart).
+Risk of hypoglycemia post-birth due to hyperinsulinemia.
+Symptoms
+Cyanosis, poor feeding, tremors.
+Prevention and Treatment
+Maternal diabetes control.
+Neonatal blood glucose monitoring.
+Early feeding or IV glucose.
+Supportive respiratory care.
+Nursing Care
+Monitor hypoglycemia signs.
+Feed frequently.
+Monitor glucose levels regularly.
+Neonatal Sepsis
+Definition
+Systemic infection in newborn causing multisystem involvement.
+Causes
+Maternal infections, prolonged rupture of membranes, difficult delivery.
+Classification
+Early onset (<3 days):  maternal source.
+Late onset (1-3 weeks):  environmental source.• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Page 5
+Risk Factors
+Prematurity, low birth weight, poor hygiene, instrumentation.
+Clinical Manifestations
+Temperature instability.
+Respiratory distress.
+CNS signs: lethargy, irritability.
+GI symptoms: feeding intolerance, vomiting.
+Hematologic: jaundice, pallor.
+Complications
+Septic shock, meningitis, respiratory failure.
+Diagnosis
+CBC, blood cultures, lumbar puncture, CRP, imaging.
+Treatment
+Empiric antibiotics (ampicillin + gentamicin).
+Supportive care for respiratory, cardiovascular, hematologic functions.
+Nursing Care
+Infection control practices.
+Strict hygiene and isolation as needed.
+Monitor for antibiotic side effects.
+Prevent complications.
+Neonatal Hypothermia
+Definition
+Abnormally low body temperature due to excessive heat loss.
+Causes
+Environmental exposure.
+Immature thermoregulation.• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Page 6
+Illness.
+Risk Factors
+Prematurity, low Apgar, cesarean delivery.
+Classification
+Mild:  (35-36.3°C).
+Moderate:  (32-34.9°C).
+Severe:  (<32°C).
+Signs and Symptoms
+Cool, pale skin.
+Lethargy, poor feeding.
+Respiratory distress.
+Hypoglycemia.
+Complications
+Hypoxia, acidosis, clotting disorders.
+Prevention ("Warm Chain")
+Warm delivery room.
+Immediate drying.
+Skin-to-skin contact.
+Early breastfeeding.
+Delayed bathing/weighing.
+Appropriate clothing.
+Warm transportation.
+Treatment
+Mild:  skin-to-skin, warm environment.
+Moderate:  radiant heaters, incubator.
+Severe:  incubator with controlled warming.
+Nursing Assessment and Intervention
+Monitor temperature, vital signs.• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Page 7
+Assess perfusion.
+Provide gradual rewarming.
+Manage oxygenation and fluids.
+This structured summary captures the comprehensive content of the original text, emphasizing
+critical concepts, developmental stages, clinical features, and nursing care essential for
+understanding human growth, development, and high-risk neonatal care.• 
+• 
+• 
+Page 8

@@ -1,0 +1,221 @@
+PEDIATRIC NURSING STUDY GUIDE
+Comprehensive Review of Child Health Disorders and Rights
+Unit Nine: Gastrointestinal Disorders and Role of
+the Pediatric Nurse
+Gastrointestinal Disorders: Gastroenteritis
+Definition and Epidemiology:
+Gastroenteritis is an acute inflammation of the stomach and intestines, characterized
+primarily by vomiting and diarrhea. It is highly prevalent in pediatric populations globally
+and is a leading cause of morbidity and mortality among children. Viral agents, especially
+rotavirus, are the predominant causative factors in both developed and developing
+countries. 
+Mode of Transmission:
+The  primary  modes  include  the  fecal-oral  route,  ingestion  of  contaminated  food  and  water,
+transmission in daycare or school settings, and potentially respiratory tract inoculation.
+Types and Clinical Manifestations:
+Bacterial Gastroenteritis:  Typically presents with fever above 38.5°C  and severe or bloody
+diarrhea. Common pathogens include Shigella , Salmonella , E. coli , Campylobacter , and 
+Yersinia enterocolitica . Stool characteristics help guide diagnosis, but stool culture is
+definitive.
+Viral Gastroenteritis:  Usually features lower-grade fever ( < 38°C ) and watery, non-bloody
+diarrhea. Rotavirus is the most common agent.
+Parasitic Enteritis:  Manifestations depend on the parasite; for example, Giardia lamblia
+causes watery, foul-smelling diarrhea without fever; amoebiasis may cause bloody diarrhea
+without fever.• 
+• 
+• 
+1
+Red Flag Symptoms:
+Altered sensorium
+Bilious or bloody vomiting
+Cyanosis
+Excessive irritability or inconsolable crying
+Petechial rash
+Low body weight
+Poor peripheral perfusion
+Rapid breathing
+Temperature ≥ 40°C
+Complications:
+Severe cases, especially bacterial, can lead to metabolic complications (dehydration, acidosis,
+electrolyte  imbalances,  acute  renal  failure),  cardiovascular  shock,  neurologic  complications
+(convulsions,  coma),  hematologic  bleeding,  and  digestive  issues  such  as  persistent  diarrhea
+causing malabsorption and malnutrition.
+Prevention:
+Key strategies include rigorous handwashing, rotavirus vaccination (oral pentavalent vaccine at
+2,  4,  and  6  months),  safe  diaper  handling,  and  water  purification  methods  (boiling  or
+chlorination).
+Management:
+Mild to moderate cases are managed at home focusing on dehydration prevention, diet,
+and symptomatic treatment.
+Severe cases require hospitalization with intravenous fluids for shock and electrolyte
+correction, antibiotics for persistent high fever or severe bacterial infection, and
+treatment of complications.
+Nursing care emphasizes hydration with oral rehydration solution (ORS), careful feeding
+practices (small frequent meals during and post-diarrhea), and monitoring for signs of
+overhydration.
+Drug Therapy:
+Antibiotics are generally ineffective for diarrhea and may prolong illness or cause resistance.
+Anti-diarrheal  and  anti-motility  drugs  are  discouraged.  Prevention  focuses  on  breastfeeding,
+appropriate weaning, hygiene, and measles vaccination.• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+2
+Typhoid Fever
+Definition:
+Typhoid fever is a systemic infection caused by Salmonella typhi , primarily affecting
+intestinal lymphoid tissue, especially Peyer's patches, and capable of bacteremia. 
+Transmission and Incubation:
+Spread via contaminated food, water, or direct contact with carriers; incubation ranges from 3
+days to 1 month, commonly 8-14 days.
+Clinical Manifestations:
+Week 1:  Frontal headache, intermittent high fever (up to 40°C ), epistaxis, bronchitis,
+abdominal distension, diarrhea or constipation, slow pulse, splenomegaly, trunk rash, stupor.
+Week 2:  Abdominal symptoms worsen, persistent fever, enlarged spleen.
+Week 3:  Prostration, weakness, fatigue, circulatory failure.
+Complications:
+Intestinal hemorrhage due to vessel erosion
+Intestinal perforation causing acute abdomen and shock
+Metearism (abdominal gas distension causing cardiac pressure)
+Acute myocarditis from endotoxins leading to arrhythmias
+Diagnosis:
+Blood cultures in the first week, followed by stool cultures. Isolation is recommended until stool
+cultures are negative (typically 3 consecutive weekly cultures).
+Prevention:
+Good hygiene, sanitary waste disposal, drinking treated water, consuming pasteurized dairy,
+avoiding raw shellfish, vaccination for travelers or contacts, and food/water safety practices
+("boil it, cook it, peel it, or forget it").
+Management:
+Supportive care includes hydration, antipyretics, and nutrition. Chloramphenicol IV for 3 weeks
+is the main antibiotic treatment. Corticosteroids are indicated in severe toxemia.• 
+• 
+• 
+• 
+• 
+• 
+• 
+3
+Nursing Care:
+Assessment focuses on travel history and febrile illness symptoms; nursing diagnoses
+include fluid volume deficit, imbalanced nutrition, acute pain, activity intolerance, and
+hyperthermia. Interventions encompass assistance with ADLs, hydration encouragement,
+nutrition support, pain and temperature management, and family education. Evaluation
+confirms goals such as fluid balance and symptom control. 
+Diarrhea
+Definition:
+Passage of three or more loose or liquid stools per day, distinct from frequent formed stools. 
+Causes:
+Infective: bacterial ( E. coli , Salmonella , Shigella ), viral (rotavirus), protozoal ( Giardia ), fungal.
+Non-infective: dietary causes (overfeeding, unsuitable formula), malabsorption, allergies,
+endocrine disorders.
+Classification by Duration:
+Acute (< 1 month)
+Persistent (more than 2 weeks)
+Chronic (> 1 month), often related to malabsorption or systemic illness
+Types:
+Acute watery diarrhea (80%): self-limited, watery stools, dehydration risk
+Dysentery (5-10%): bloody stools, intestinal mucosa damage
+Persistent diarrhea: prolonged post-infection diarrhea with weight loss
+Chronic diarrhea: linked to malabsorption, allergies, IBD
+Chronic nonspecific diarrhea: common in toddlers, no malnutrition or infection
+Intractable diarrhea of infancy: prolonged, refractory diarrhea in infants
+Clinical Features:
+Includes diarrhea, vomiting, abdominal colic/distension, tenesmus, fever, irritability, dehydration
+signs.• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+4
+Stool Characteristics Indicative of Pathogens:
+Watery, colorless: rotavirus, E. coli
+Rice water: Vibrio cholera
+Mucus, pus, blood: Shigella , Salmonella
+Frothy, pale: Giardia
+Mucus, blood, pus with tenesmus: E. histolytica
+Complications:
+Metabolic: dehydration, electrolyte imbalances (hypo/hypernatremia, hypocalcemia,
+hypokalemia), acid-base disturbances
+CNS: convulsions, meningitis, cerebral thrombosis
+Cardiovascular: shock
+Pulmonary: infections, ARDS
+Renal: acute failure, hemolytic uremic syndrome
+GI: ileus, rectal prolapse, obstruction
+Hematologic: disseminated intravascular coagulation (DIC)
+Nutritional: predisposition to malnutrition
+Assessment:
+Includes history, weight monitoring, vital signs, intake/output, thirst, skin turgor, edema.
+Management:
+ORS is the mainstay; administered frequently in small amounts.
+Antibiotics generally avoided except for specific infections.
+Nutrition maintained or resumed early.
+Prevention: vaccination (rotavirus), breastfeeding, hygiene, safe water and food, measles
+vaccination.
+Dehydration
+Definition:
+A fluid imbalance where output exceeds intake, common in infants and children. • 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+5
+Causes:
+Fever, diarrhea, vomiting, poor intake, environmental heat, burns, blood loss, cystic fibrosis.
+Clinical Manifestations:
+Thirst,  sunken  eyes/fontanelle,  dry  mucous  membranes,  loss  of  skin  elasticity,  oliguria,
+irritability/lethargy, shock in severe cases.
+Classification:
+Mild: 2-4% weight loss, thirst only
+Moderate: 5-9% weight loss, dehydration signs present
+Severe: ≥10% weight loss, shock signs
+Types:
+Isotonic: equal loss of water and sodium; serum Na ≈ 130-150  mEq/L
+Hypotonic: more sodium loss; serum Na < 130  mEq/L; risk of cerebral edema
+Hypertonic: more water loss; serum Na > 150  mEq/L; risk of brain cell dehydration
+Assessment:
+History, weight, physical exam for dehydration signs, electrolyte and renal function tests.
+Treatment:
+Plan A:  Home rehydration with ORS for mild dehydration
+Plan B:  Outpatient ORS with medical supervision for moderate dehydration
+Plan C:  Hospital IV fluids for severe dehydration/shock
+Feeding is continued or resumed promptly; breastfeeding is never stopped.
+Unit Ten: Malignant Neoplasm
+Overview of Childhood Cancer
+Childhood cancers vary by type and location, often differing from adult cancers in behavior and
+treatment response. They involve blood, lymphatics, CNS, kidneys, and other tissues. Most have
+no known cause.• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+6

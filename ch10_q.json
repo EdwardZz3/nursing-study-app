@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What are congenital anomalies?",
+    "options": ["Infections acquired at school", "Abnormalities present at birth", "Diseases of old age", "Nutritional deficiencies"],
+    "answer": "Abnormalities present at birth",
+    "id": "c10_q1"
+  },
+  {
+    "question": "Which viral infection during the first trimester is a known cause of congenital anomalies?",
+    "options": ["Influenza", "Rubella (German measles)", "Common cold", "Chickenpox"],
+    "answer": "Rubella (German measles)",
+    "id": "c10_q2"
+  },
+  {
+    "question": "What is recommended for women to take before and during early pregnancy to prevent Spina Bifida?",
+    "options": ["Vitamin C", "Folic acid", "Iron", "Calcium"],
+    "answer": "Folic acid",
+    "id": "c10_q3"
+  },
+  {
+    "question": "Which condition is a group of defects involving the spinal column?",
+    "options": ["Hydrocephalus", "Spina Bifida", "Cleft Palate", "Hirschsprung disease"],
+    "answer": "Spina Bifida",
+    "id": "c10_q4"
+  },
+  {
+    "question": "In Spina Bifida, what is the 'Meningocele' type?",
+    "options": ["A hidden defect with no sac", "Sac containing meninges and CSF only", "Sac containing spinal cord and nerve roots", "A brain tumor"],
+    "answer": "Sac containing meninges and CSF only",
+    "id": "c10_q5"
+  },
+  {
+    "question": "What is the best position for an infant with Spina Bifida before surgery to prevent trauma to the sac?",
+    "options": ["Supine (on back)", "Prone (on stomach)", "Side-lying", "Sitting up"],
+    "answer": "Prone (on stomach)",
+    "id": "c10_q6"
+  },
+  {
+    "question": "What causes Hydrocephalus?",
+    "options": ["Low blood sugar", "Imbalance in production and absorption of CSF", "Bacterial infection only", "Lack of vitamins"],
+    "answer": "Imbalance in production and absorption of CSF",
+    "id": "c10_q7"
+  },
+  {
+    "question": "What is the 'setting sun' sign in Hydrocephalus?",
+    "options": ["A skin rash", "Sluggish and unequal pupils", "A type of cough", "Abdominal distention"],
+    "answer": "Sluggish and unequal pupils",
+    "id": "c10_q8"
+  },
+  {
+    "question": "Post-operatively, how should a child with a shunt for Hydrocephalus be positioned?",
+    "options": ["Flat in bed for 24 hours", "Head elevated 90 degrees", "On the same side as the shunt", "Prone"],
+    "answer": "Flat in bed for 24 hours",
+    "id": "c10_q9"
+  },
+  {
+    "question": "What is 'Cleft Lip'?",
+    "options": ["A heart defect", "Failure of maxillary processes to fuse", "A missing tooth", "A swollen tongue"],
+    "answer": "Failure of maxillary processes to fuse",
+    "id": "c10_q10"
+  },
+  {
+    "question": "Why is Cleft Palate repair usually postponed until age 1-2 years?",
+    "options": ["The baby is too small for anesthesia", "To take advantage of palate changes and avoid faulty speech", "To wait for teeth to grow", "It is not a serious condition"],
+    "answer": "To take advantage of palate changes and avoid faulty speech",
+    "id": "c10_q11"
+  },
+  {
+    "question": "What device is used to protect the suture line after Cleft Lip surgery?",
+    "options": ["Logan bow", "Feeding tube", "Neck brace", "Pacifier"],
+    "answer": "Logan bow",
+    "id": "c10_q12"
+  },
+  {
+    "question": "What are the '3 Cs' of Tracheoesophageal Fistula (TOF) manifestations?",
+    "options": ["Cold, cough, congestion", "Choking, coughing, cyanosis", "Crying, cramping, constipation", "Colic, confusion, coma"],
+    "answer": "Choking, coughing, cyanosis",
+    "id": "c10_q13"
+  },
+  {
+    "question": "What is a major preoperative priority for an infant with TOF?",
+    "options": ["Feeding high-calorie formula", "Prevention of pneumonia and aspiration", "Physical therapy", "Encouraging crying"],
+    "answer": "Prevention of pneumonia and aspiration",
+    "id": "c10_q14"
+  },
+  {
+    "question": "What is a Diaphragmatic Hernia?",
+    "options": ["A hole in the heart", "Abdominal contents protruding into the pleural cavity", "A blocked intestine", "A brain abnormality"],
+    "answer": "Abdominal contents protruding into the pleural cavity",
+    "id": "c10_q15"
+  },
+  {
+    "question": "How should an infant with Diaphragmatic Hernia be positioned?",
+    "options": ["On the unaffected side", "On the affected side with head higher than feet", "Flat on their back", "Prone"],
+    "answer": "On the affected side with head higher than feet",
+    "id": "c10_q16"
+  },
+  {
+    "question": "What causes Hirschsprung disease?",
+    "options": ["Too much fiber", "Absence of ganglion cells in the colon", "Viral infection", "Food allergy"],
+    "answer": "Absence of ganglion cells in the colon",
+    "id": "c10_q17"
+  },
+  {
+    "question": "What is a classic sign of Hirschsprung disease in a newborn?",
+    "options": ["Projectile vomiting", "Failure to pass meconium", "Excessive drooling", "High fever"],
+    "answer": "Failure to pass meconium",
+    "id": "c10_q18"
+  },
+  {
+    "question": "What type of stool is characteristic of Hirschsprung disease in childhood?",
+    "options": ["Watery", "Bloody", "Ribbon-like, foul smelling", "Hard pebbles"],
+    "answer": "Ribbon-like, foul smelling",
+    "id": "c10_q19"
+  },
+  {
+    "question": "What is Hypertrophic Pyloric Stenosis?",
+    "options": ["A hole in the stomach", "Obstruction at the pyloric sphincter by muscle hypertrophy", "A type of diarrhea", "A liver condition"],
+    "answer": "Obstruction at the pyloric sphincter by muscle hypertrophy",
+    "id": "c10_q20"
+  },
+  {
+    "question": "What is the classic vomiting pattern in Pyloric Stenosis?",
+    "options": ["Dribbling", "Non-projectile", "Projectile vomiting", "Bloody vomiting"],
+    "answer": "Projectile vomiting",
+    "id": "c10_q21"
+  },
+  {
+    "question": "What physical feature is often palpable in the epigastrium of a baby with Pyloric Stenosis?",
+    "options": ["A soft balloon", "An olive-shaped tumor", "A sharp bone", "Nothing is palpable"],
+    "answer": "An olive-shaped tumor",
+    "id": "c10_q22"
+  },
+  {
+    "question": "What is Intussusception?",
+    "options": ["A missing part of the bowel", "Telescoping of one portion of the intestine into another", "A twisted stomach", "Anal stenosis"],
+    "answer": "Telescoping of one portion of the intestine into another",
+    "id": "c10_q23"
+  },
+  {
+    "question": "What do the stools look like in a child with Intussusception?",
+    "options": ["Normal brown", "Green and watery", "Red and currant jelly-like", "Clay-colored"],
+    "answer": "Red and currant jelly-like",
+    "id": "c10_q24"
+  },
+  {
+    "question": "What is the initial treatment of choice for Intussusception?",
+    "options": ["Immediate surgery", "Nonsurgical hydrostatic reduction (barium enema)", "Antibiotics", "Wait and see"],
+    "answer": "Nonsurgical hydrostatic reduction (barium enema)",
+    "id": "c10_q25"
+  },
+  {
+    "question": "What indicates that Intussusception has reduced itself before surgery?",
+    "options": ["The child stops crying", "Passage of a normal brown stool", "The child falls asleep", "A fever develops"],
+    "answer": "Passage of a normal brown stool",
+    "id": "c10_q26"
+  },
+  {
+    "question": "What is Anorectal Malformation (Imperforated Anus)?",
+    "options": ["Diarrhea", "Anomaly where there is no anal opening", "A kidney defect", "A skin rash"],
+    "answer": "Anomaly where there is no anal opening",
+    "id": "c10_q27"
+  },
+  {
+    "question": "What is Hypospadias?",
+    "options": ["Urethral opening on the dorsal surface", "Urethral opening on the ventral surface of the penis", "Undescended testes", "A hernia"],
+    "answer": "Urethral opening on the ventral surface of the penis",
+    "id": "c10_q28"
+  },
+  {
+    "question": "Why should a newborn with hypospadias NOT be circumcised?",
+    "options": ["It is too painful", "The foreskin is needed for surgical repair", "It causes infection", "It is against protocol"],
+    "answer": "The foreskin is needed for surgical repair",
+    "id": "c10_q29"
+  },
+  {
+    "question": "What is the term for a condition where one or both testicles fail to descend into the scrotum?",
+    "options": ["Epispadias", "Hypospadias", "Undescended testes (Cryptorchidism)", "Hydrocele"],
+    "answer": "Undescended testes (Cryptorchidism)",
+    "id": "c10_q30"
+  }
+]

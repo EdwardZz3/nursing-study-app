@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the most frequent type of cancer in children?",
+    "options": ["Brain tumors", "Leukemia", "Wilm's tumor", "Hodgkin's disease"],
+    "answer": "Leukemia",
+    "id": "c9_q1"
+  },
+  {
+    "question": "Leukemia accounts for approximately what percentage of childhood cancer cases?",
+    "options": ["10%", "28%", "50%", "75%"],
+    "answer": "28%",
+    "id": "c9_q2"
+  },
+  {
+    "question": "Which type of leukemia is the most frequent in children?",
+    "options": ["Acute myeloid leukemia (AML)", "Chronic lymphocytic leukemia", "Acute lymphoblastic leukemia (ALL)", "Lymphoma"],
+    "answer": "Acute lymphoblastic leukemia (ALL)",
+    "id": "c9_q3"
+  },
+  {
+    "question": "What is the typical age range for the highest incidence of leukemia in children?",
+    "options": ["Birth to 1 year", "2 to 6 years", "10 to 12 years", "Late teens"],
+    "answer": "2 to 6 years",
+    "id": "c9_q4"
+  },
+  {
+    "question": "In leukemia, which blood component drop is largely responsible for hemorrhagic manifestations?",
+    "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "answer": "Platelets",
+    "id": "c9_q5"
+  },
+  {
+    "question": "What are 'petechiae', often seen in leukemia patients?",
+    "options": ["Large bruises", "Tiny purple/red skin spots", "Open sores", "White patches"],
+    "answer": "Tiny purple/red skin spots",
+    "id": "c9_q6"
+  },
+  {
+    "question": "What diagnostic test is used to definitively examine the production of blood cells in leukemia?",
+    "options": ["Urine analysis", "Bone marrow aspiration", "Chest X-ray", "Stool culture"],
+    "answer": "Bone marrow aspiration",
+    "id": "c9_q7"
+  },
+  {
+    "question": "What is the primary specific treatment used to kill tumor cells in leukemia?",
+    "options": ["Surgery", "Antibiotics", "Chemotherapy", "Physical therapy"],
+    "answer": "Chemotherapy",
+    "id": "c9_q8"
+  },
+  {
+    "question": "If a child with leukemia has a rectal ulcer, how should the nurse avoid measuring temperature?",
+    "options": ["Axillary", "Orally", "Rectally", "Tympanic"],
+    "answer": "Rectally",
+    "id": "c9_q9"
+  },
+  {
+    "question": "What is the leading cause of cancer-related death in children?",
+    "options": ["Leukemia", "Brain tumors", "Skin cancer", "Bone cancer"],
+    "answer": "Brain tumors",
+    "id": "c9_q10"
+  },
+  {
+    "question": "Which of these is part of the common 'presenting triad' for brain tumors?",
+    "options": ["Fever, cough, rash", "Headache, nausea/vomiting, gait imbalance", "Diarrhea, thirst, dry skin", "Joint pain, paleness, bruising"],
+    "answer": "Headache, nausea/vomiting, gait imbalance",
+    "id": "c9_q11"
+  },
+  {
+    "question": "A brain tumor in the 'Optic pathway' is most likely to cause which symptom?",
+    "options": ["Vomiting", "Delayed puberty", "Visual changes or nystagmus", "Tics"],
+    "answer": "Visual changes or nystagmus",
+    "id": "c9_q12"
+  },
+  {
+    "question": "What is the preferred neuroimaging investigation for brain tumors?",
+    "options": ["X-ray", "Ultrasound", "MRI of brain and spine", "PET scan"],
+    "answer": "MRI of brain and spine",
+    "id": "c9_q13"
+  },
+  {
+    "question": "What does a positive 'Babinski sign' indicate during a neurological exam?",
+    "options": ["Normal reflexes", "Brain tumor or neurological finding", "Good hearing", "Healthy vision"],
+    "answer": "Brain tumor or neurological finding",
+    "id": "c9_q14"
+  },
+  {
+    "question": "Which surgical goal is sought in brain tumor management?",
+    "options": ["Partial biopsy only", "Maximal safe surgical resection", "Drainage of CSF only", "Laser ablation"],
+    "answer": "Maximal safe surgical resection",
+    "id": "c9_q15"
+  },
+  {
+    "question": "Which of the following is a potential 'late effect' of cancer therapy?",
+    "options": ["Immediate fever", "Lower IQ or memory problems", "Temporary hair loss", "Acute nausea"],
+    "answer": "Lower IQ or memory problems",
+    "id": "c9_q16"
+  },
+  {
+    "question": "What is Wilm's Tumor?",
+    "options": ["A bone tumor", "A malignant kidney tumor", "A brain tumor", "A blood cancer"],
+    "answer": "A malignant kidney tumor",
+    "id": "c9_q17"
+  },
+  {
+    "question": "What is a critical nursing instruction for Wilm's tumor to prevent metastasis?",
+    "options": ["Keep the child prone", "Do not palpate the abdomen", "Provide high-fiber diet", "Encourage exercise"],
+    "answer": "Do not palpate the abdomen",
+    "id": "c9_q18"
+  },
+  {
+    "question": "At what age is Wilm's tumor most commonly discovered?",
+    "options": ["At birth", "6 months to 5 years", "Adolescence", "Over 10 years"],
+    "answer": "6 months to 5 years",
+    "id": "c9_q19"
+  },
+  {
+    "question": "Which diagnostic test shows the pelvis of the kidney in Wilm's tumor?",
+    "options": ["CBC", "I.V. pyelogram", "Brain MRI", "Lumbar puncture"],
+    "answer": "I.V. pyelogram",
+    "id": "c9_q20"
+  },
+  {
+    "question": "What does Hodgkin's disease primarily affect?",
+    "options": ["Kidneys", "Bloodstream", "Lymph nodes", "Lungs"],
+    "answer": "Lymph nodes",
+    "id": "c9_q21"
+  },
+  {
+    "question": "What is a common early manifestation of Hodgkin's disease?",
+    "options": ["Severe pain", "Painless enlargement of cervical lymph nodes", "Persistent cough", "Sudden paralysis"],
+    "answer": "Painless enlargement of cervical lymph nodes",
+    "id": "c9_q22"
+  },
+  {
+    "question": "Which Hodgkin's disease stage affects lymph nodes on both sides of the diaphragm?",
+    "options": ["Stage I", "Stage II", "Stage III", "Stage IV"],
+    "answer": "Stage III",
+    "id": "c9_q23"
+  },
+  {
+    "question": "In Stage IV Hodgkin's, how long is the typical course of chemotherapy?",
+    "options": ["1 week", "1 month", "6 months", "2 years"],
+    "answer": "6 months",
+    "id": "c9_q24"
+  },
+  {
+    "question": "What prophylactic measure is needed if a child has a total splenectomy?",
+    "options": ["Daily penicillin for 1-2 years", "High-fat diet", "Strict bed rest", "No vaccinations"],
+    "answer": "Daily penicillin for 1-2 years",
+    "id": "c9_q25"
+  },
+  {
+    "question": "What is the primary goal of cancer 'rehabilitation'?",
+    "options": ["To cure the cancer", "To help families regain control and remain independent", "To provide chemotherapy", "To diagnose recurrence"],
+    "answer": "To help families regain control and remain independent",
+    "id": "c9_q26"
+  },
+  {
+    "question": "What is a 'secondary cancer'?",
+    "options": ["The same cancer coming back", "A new cancer in someone who had cancer before", "Cancer that spreads to the liver", "A benign tumor"],
+    "answer": "A new cancer in someone who had cancer before",
+    "id": "c9_q27"
+  },
+  {
+    "question": "How often should follow-up care occur for childhood cancer survivors?",
+    "options": ["For 1 year", "Until age 18", "Life-long", "Only if symptoms return"],
+    "answer": "Life-long",
+    "id": "c9_q28"
+  },
+  {
+    "question": "What emotional problems are mentioned as late effects of cancer treatment?",
+    "options": ["Euphoria", "Anxiety and depression", "Anger issues", "Personality shifts"],
+    "answer": "Anxiety and depression",
+    "id": "c9_q29"
+  },
+  {
+    "question": "Why is keeping a personal health record important for cancer survivors?",
+    "options": ["To pay bills", "To have a written history for adulthood care", "To show friends", "To get into school"],
+    "answer": "To have a written history for adulthood care",
+    "id": "c9_q30"
+  }
+]

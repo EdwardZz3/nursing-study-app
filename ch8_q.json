@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the leading cause of illness and death for children worldwide according to the text?",
+    "options": ["Malnutrition", "Acute gastroenteritis", "Pneumonia", "Measles"],
+    "answer": "Acute gastroenteritis",
+    "id": "c8_q1"
+  },
+  {
+    "question": "Which mode of transmission is most common for gastroenteritis?",
+    "options": ["Respiratory droplets", "Skin-to-skin contact", "Fecal-oral route", "Blood transfusion"],
+    "answer": "Fecal-oral route",
+    "id": "c8_q2"
+  },
+  {
+    "question": "Which organism is the most common cause of viral gastroenteritis?",
+    "options": ["Salmonella", "E. coli", "Rotavirus", "Shigella"],
+    "answer": "Rotavirus",
+    "id": "c8_q3"
+  },
+  {
+    "question": "A fever above 38.5°C with severe or bloody diarrhea usually suggests which type of gastroenteritis?",
+    "options": ["Viral", "Bacterial", "Parasitic", "Dietetic"],
+    "answer": "Bacterial",
+    "id": "c8_q4"
+  },
+  {
+    "question": "Which of the following is considered a 'red flag' sign of acute gastroenteritis?",
+    "options": ["Mild thirst", "Watery stool", "Altered sensorium", "Normal breathing"],
+    "answer": "Altered sensorium",
+    "id": "c8_q5"
+  },
+  {
+    "question": "What is a common neurologic complication of severe dehydration in gastroenteritis?",
+    "options": ["Hyperactivity", "Convulsions", "Improved memory", "Insomnia"],
+    "answer": "Convulsions",
+    "id": "c8_q6"
+  },
+  {
+    "question": "At what ages is the Rotavirus vaccine typically administered?",
+    "options": ["1, 2, 3 months", "2, 4, 6 months", "6, 9, 12 months", "At birth only"],
+    "answer": "2, 4, 6 months",
+    "id": "c8_q7"
+  },
+  {
+    "question": "For a child with gastroenteritis, when should ORS be given more slowly (one teaspoon every 2-3 minutes)?",
+    "options": ["If the child is thirsty", "If the child has a fever", "If vomiting occurs", "If the child is sleeping"],
+    "answer": "If vomiting occurs",
+    "id": "c8_q8"
+  },
+  {
+    "question": "What is a sign of over-hydration that a nurse should watch for during ORS administration?",
+    "options": ["Sunken eyes", "Dry tongue", "Puffy eyes", "Rapid pulse"],
+    "answer": "Puffy eyes",
+    "id": "c8_q9"
+  },
+  {
+    "question": "Which bacterium causes Typhoid fever?",
+    "options": ["Salmonella typhus", "Vibrio cholerae", "E. coli", "Shigella"],
+    "answer": "Salmonella typhus",
+    "id": "c8_q10"
+  },
+  {
+    "question": "What is the typical incubation period for Typhoid fever?",
+    "options": ["1-2 days", "8-14 days", "3-5 months", "6 hours"],
+    "answer": "8-14 days",
+    "id": "c8_q11"
+  },
+  {
+    "question": "During which week of Typhoid fever do 'rose spots' (skin rashes) typically appear on the trunk?",
+    "options": ["First week", "Second week", "Third week", "Fourth week"],
+    "answer": "First week",
+    "id": "c8_q12"
+  },
+  {
+    "question": "What complication of Typhoid is caused by the erosion of blood vessels in the small intestine?",
+    "options": ["Myocarditis", "Intestinal hemorrhage", "Encephalitis", "Pneumonia"],
+    "answer": "Intestinal hemorrhage",
+    "id": "c8_q13"
+  },
+  {
+    "question": "Which antibiotic is cited as the only effective one for Typhoid fever in the text?",
+    "options": ["Penicillin", "Amoxicillin", "Chloramphenicol", "Erythromycin"],
+    "answer": "Chloramphenicol",
+    "id": "c8_q14"
+  },
+  {
+    "question": "According to the WHO, diarrhea is defined as the passage of how many loose stools per day?",
+    "options": ["One", "Two", "Three or more", "Five or more"],
+    "answer": "Three or more",
+    "id": "c8_q15"
+  },
+  {
+    "question": "What is the duration threshold for diarrhea to be classified as 'chronic'?",
+    "options": ["3 days", "7 days", "14 days", "More than 1 month"],
+    "answer": "More than 1 month",
+    "id": "c8_q16"
+  },
+  {
+    "question": "What term describes diarrhea with visible blood in the feces?",
+    "options": ["Acute watery diarrhea", "Dysentery", "Persistent diarrhea", "CNSD"],
+    "answer": "Dysentery",
+    "id": "c8_q17"
+  },
+  {
+    "question": "Which type of diarrhea is also known as 'toddler's diarrhea' and involves undigested food particles?",
+    "options": ["Intractable diarrhea", "Chronic nonspecific diarrhea (CNSD)", "Dysentery", "Viral diarrhea"],
+    "answer": "Chronic nonspecific diarrhea (CNSD)",
+    "id": "c8_q18"
+  },
+  {
+    "question": "What is the significance of green motions in children's stools?",
+    "options": ["Severe infection", "Bile pigment excretion due to rapid movement", "Lactose intolerance", "Poisoning"],
+    "answer": "Bile pigment excretion due to rapid movement",
+    "id": "c8_q19"
+  },
+  {
+    "question": "Which breathing pattern is a manifestation of metabolic acidosis in diarrhea?",
+    "options": ["Shallow breathing", "Kussmaul's breathing", "Apnea", "Wheezing"],
+    "answer": "Kussmaul's breathing",
+    "id": "c8_q20"
+  },
+  {
+    "question": "In assessing dehydration, 1 kg of weight loss is roughly equal to how much fluid loss?",
+    "options": ["100 ml", "500 ml", "1000 ml", "2000 ml"],
+    "answer": "1000 ml",
+    "id": "c8_q21"
+  },
+  {
+    "question": "Which supplement is mentioned to reduce the duration of a diarrhea episode by 25%",
+    "options": ["Vitamin C", "Zinc", "Iron", "Calcium"],
+    "answer": "Zinc",
+    "id": "c8_q22"
+  },
+  {
+    "question": "In mild dehydration, what is the estimated percentage of body weight loss?",
+    "options": ["2-4%", "5-9%", "10-15%", "Over 20%"],
+    "answer": "2-4%",
+    "id": "c8_q23"
+  },
+  {
+    "question": "Which sign is characteristic of severe dehydration in an infant?",
+    "options": ["Moist tongue", "Tears present", "Sunken eyes with no tears", "Rapid weight gain"],
+    "answer": "Sunken eyes with no tears",
+    "id": "c8_q24"
+  },
+  {
+    "question": "What type of dehydration occurs when the loss of water and sodium are equal?",
+    "options": ["Isotonic", "Hypotonic", "Hypertonic", "Dietetic"],
+    "answer": "Isotonic",
+    "id": "c8_q25"
+  },
+  {
+    "question": "Which type of dehydration carries a high risk of brain cell shrinkage and intracranial hemorrhage?",
+    "options": ["Isotonic", "Hypotonic", "Hypertonic", "Chronic"],
+    "answer": "Hypertonic",
+    "id": "c8_q26"
+  },
+  {
+    "question": "Under Management Plan B for dehydration, what is the recommended amount of ORS per kg of weight?",
+    "options": ["10 ml/kg", "25 ml/kg", "75 ml/kg", "200 ml/kg"],
+    "answer": "75 ml/kg",
+    "id": "c8_q27"
+  },
+  {
+    "question": "In Plan C for dehydration (hospital), what is the first step for fluid therapy?",
+    "options": ["Offer a cup and spoon", "Give IV fluid", "Stop breastfeeding", "Give high-fiber food"],
+    "answer": "Give IV fluid",
+    "id": "c8_q28"
+  },
+  {
+    "question": "Which physical exam finding is used to check skin turgor in a child?",
+    "options": ["Pressing the forehead", "Grasping skin over the abdomen", "Checking the palms", "Looking at the fingernails"],
+    "answer": "Grasping skin over the abdomen",
+    "id": "c8_q29"
+  },
+  {
+    "question": "What should be avoided in children with diarrhea as it may cause sedation and prevent ORS intake?",
+    "options": ["Antibiotics", "Zinc", "Antiemetics like chlorpromazine", "Breast milk"],
+    "answer": "Antiemetics like chlorpromazine",
+    "id": "c8_q30"
+  }
+]

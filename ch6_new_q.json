@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the primary cause of nutritional rickets?",
+    "options": ["Lack of Vitamin A", "Lack of Vitamin D and sunlight exposure", "Excessive calcium intake", "Lack of Vitamin C"],
+    "answer": "Lack of Vitamin D and sunlight exposure"
+  },
+  {
+    "question": "At what age range does nutritional rickets primarily occur?",
+    "options": ["Birth to 3 months", "3 months to 3 years", "5 to 10 years", "Adolescence"],
+    "answer": "3 months to 3 years"
+  },
+  {
+    "question": "Which clinical manifestation involves the softening of cranial bones that make a cracking sound under pressure?",
+    "options": ["Pigeon chest", "Kyphosis", "Craniotabes", "Scoliosis"],
+    "answer": "Craniotabes"
+  },
+  {
+    "question": "What is the term for the sharp protrusion of the sternum seen in rickets?",
+    "options": ["Harrison's groove", "Rachitic rosary", "Pigeon chest", "Lordosis"],
+    "answer": "Pigeon chest"
+  },
+  {
+    "question": "Which laboratory finding is characteristic of rickets?",
+    "options": ["Increased serum phosphorus", "Decreased serum alkaline phosphate", "Increased parathyroid hormone", "Decreased urine amino acids"],
+    "answer": "Increased parathyroid hormone"
+  },
+  {
+    "question": "What is the recommended daily Vitamin D supplement for exclusively breast-fed infants from birth to 12 months?",
+    "options": ["200 IU/d", "400 IU/d", "600 IU/d", "1000 IU/d"],
+    "answer": "400 IU/d"
+  },
+  {
+    "question": "In the treatment of rickets, if no healing occurs after three IM doses of Vitamin D, the condition is considered:",
+    "options": ["Scurvy", "Infantile tetany", "Vitamin D resistant rickets", "Marasmus"],
+    "answer": "Vitamin D resistant rickets"
+  },
+  {
+    "question": "How should a nurse handle a child with rickets to avoid pressure on the chest bones?",
+    "options": ["Lift by the arms", "Never put pressure on the chest when lifting", "Apply diapers tightly", "Use a very soft mattress"],
+    "answer": "Never put pressure on the chest when lifting"
+  },
+  {
+    "question": "Infantile tetany is caused by a lack of which ionized mineral?",
+    "options": ["Phosphorus", "Iron", "Calcium", "Zinc"],
+    "answer": "Calcium"
+  },
+  {
+    "question": "What is 'Trousseau's sign' used to detect?",
+    "options": ["Vitamin C deficiency", "Latent tetany", "Scurvy", "Marasmus"],
+    "answer": "Latent tetany"
+  },
+  {
+    "question": "Which sign involves a high-pitched crowing sound on inspiration due to laryngeal spasm?",
+    "options": ["Craniotabes", "Larynges spasm", "Harrison's groove", "Pigeon chest"],
+    "answer": "Larynges spasm"
+  },
+  {
+    "question": "What is the immediate treatment for a child having convulsions due to tetany?",
+    "options": ["Vitamin D injection", "Oral calcium", "IV Calcium gluconate 10% and Diazepam", "Orange juice"],
+    "answer": "IV Calcium gluconate 10% and Diazepam"
+  },
+  {
+    "question": "Scurvy is caused by a deficiency of which vitamin?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin C"
+  },
+  {
+    "question": "What is the characteristic 'frog position' in scurvy?",
+    "options": ["Sitting with legs crossed", "Hips and knees semi-flexed with feet rotated outward", "Lying prone with arms extended", "Standing with bowed legs"],
+    "answer": "Hips and knees semi-flexed with feet rotated outward"
+  },
+  {
+    "question": "Which of the following is a common manifestation of scurvy?",
+    "options": ["Puffy eyes", "Bleeding gums and petechiae", "Square head", "Ribbon-like stools"],
+    "answer": "Bleeding gums and petechiae"
+  },
+  {
+    "question": "How should Vitamin C-rich orange juice be prepared for an infant with scurvy?",
+    "options": ["Boiled for safety", "Mixed with hot milk", "Should never be boiled", "Frozen into popsicles"],
+    "answer": "Should never be boiled"
+  },
+  {
+    "question": "What does the term 'Hidden Hunger' refer to?",
+    "options": ["A child who refuses to eat", "Lack of vitamins and minerals despite adequate calorie intake", "Severe protein deficiency", "Diabetes in children"],
+    "answer": "Lack of vitamins and minerals despite adequate calorie intake"
+  },
+  {
+    "question": "How is Marasmus defined?",
+    "options": ["Protein deficiency with adequate calories", "Lack of Vitamin C", "Under-nutrition due to severe deficiency of proteins, fats, and carbohydrates", "Excessive intake of sugar"],
+    "answer": "Under-nutrition due to severe deficiency of proteins, fats, and carbohydrates"
+  },
+  {
+    "question": "Which degree of Marasmus involves the loss of subcutaneous fat from the face, resulting in a 'senile' or 'monkey' face?",
+    "options": ["1st degree", "2nd degree", "3rd degree", "4th degree"],
+    "answer": "3rd degree"
+  },
+  {
+    "question": "What is a characteristic behavior of a child with Marasmus?",
+    "options": ["Apathy and lack of interest", "Hunger crying and restlessness", "Constant sleeping", "Aggression"],
+    "answer": "Hunger crying and restlessness"
+  },
+  {
+    "question": "What complication in Marasmus is considered a sign of bad prognosis?",
+    "options": ["Cough", "Purpura over the lower abdomen and back", "Thirst", "Late fontanel closing"],
+    "answer": "Purpura over the lower abdomen and back"
+  },
+  {
+    "question": "Kwashiorkor is primarily caused by a deficiency of:",
+    "options": ["Carbohydrates", "Vitamins", "Protein with an adequate supply of calories", "Fats"],
+    "answer": "Protein with an adequate supply of calories"
+  },
+  {
+    "question": "At what age does Kwashiorkor usually occur?",
+    "options": ["Birth to 6 months", "1 to 4 years", "6 to 10 years", "Adolescence"],
+    "answer": "1 to 4 years"
+  },
+  {
+    "question": "Which sign is a 'constant finding' in Kwashiorkor but NOT in Marasmus?",
+    "options": ["Growth failure", "Muscle wasting", "Generalized edema", "Anemia"],
+    "answer": "Generalized edema"
+  },
+  {
+    "question": "What mental change is typical in a child with Kwashiorkor?",
+    "options": ["Hyperactivity", "Apathetic and disinterested in surroundings", "Anxiety", "High intelligence"],
+    "answer": "Apathetic and disinterested in surroundings"
+  },
+  {
+    "question": "What happens to the hair in Kwashiorkor?",
+    "options": ["Becomes darker", "Becomes light in color and easily pluckable", "Grows faster", "Becomes curly"],
+    "answer": "Becomes light in color and easily pluckable"
+  },
+  {
+    "question": "Which step is part of the WHO 10-step treatment for Kwashiorkor?",
+    "options": ["Rapid refeeding with high protein", "Treat/prevent hypoglycemia", "Restrict all fluids", "Avoid antibiotics"],
+    "answer": "Treat/prevent hypoglycemia"
+  },
+  {
+    "question": "What is 'RESOMAL' used for in the treatment of Kwashiorkor?",
+    "options": ["Vitamin supplementation", "Treating dehydration", "High-protein feeding", "Treating skin ulcers"],
+    "answer": "Treating dehydration"
+  },
+  {
+    "question": "Why must refeeding in malnourished children be done cautiously?",
+    "options": ["To avoid weight gain", "To prevent refeeding syndrome", "To encourage breastfeeding", "To prevent rickets"],
+    "answer": "To prevent refeeding syndrome"
+  },
+  {
+    "question": "Marasmic-Kwashiorkor is defined as:",
+    "options": ["A mild form of rickets", "A form of PEM that combines features of both Marasmus and Kwashiorkor", "Vitamin C and D deficiency", "Over-nutrition"],
+    "answer": "A form of PEM that combines features of both Marasmus and Kwashiorkor"
+  },
+  {
+    "question": "In the assessment of nutritional status, which measurement is NOT typically anthropometric?",
+    "options": ["Mid-upper arm circumference", "Skin fold thickness", "Weight and height", "Blood pressure"],
+    "answer": "Blood pressure"
+  },
+  {
+    "question": "What is 'Failure to Thrive' (FTT)?",
+    "options": ["Excessive weight gain", "Lack of adequate weight gain, with weight below the 3rd to 5th percentile", "A type of viral infection", "A congenital heart defect"],
+    "answer": "Lack of adequate weight gain, with weight below the 3rd to 5th percentile"
+  },
+  {
+    "question": "Which type of FTT is caused by a medical condition like Cleft Palate or Celiac disease?",
+    "options": ["Nonorganic FTT", "Organic FTT", "Mixed FTT", "Environmental FTT"],
+    "answer": "Organic FTT"
+  },
+  {
+    "question": "Nonorganic FTT is primarily due to:",
+    "options": ["Chromosomal abnormalities", "Insufficient calorie intake related to environmental or psychological factors", "Heart failure", "Kidney disease"],
+    "answer": "Insufficient calorie intake related to environmental or psychological factors"
+  },
+  {
+    "question": "Which vitamin deficiency leads to 'Angular Stomatitis'?",
+    "options": ["Vitamin A", "Vitamin B2", "Vitamin K", "Vitamin E"],
+    "answer": "Vitamin B2"
+  },
+  {
+    "question": "Vitamin D is essential for the uptake of which mineral for bone calcification?",
+    "options": ["Iron", "Calcium", "Iodine", "Zinc"],
+    "answer": "Calcium"
+  },
+  {
+    "question": "What is 'Harrison's groove'?",
+    "options": ["A crack in the skull", "A bilateral depression where the diaphragm attaches to the ribs", "A swelling in the wrist", "A type of skin rash"],
+    "answer": "A bilateral depression where the diaphragm attaches to the ribs"
+  },
+  {
+    "question": "A deficiency in Vitamin A can lead to which eye condition?",
+    "options": ["Glaucoma", "Cataracts", "Corneal ulcer", "Nystagmus"],
+    "answer": "Corneal ulcer"
+  },
+  {
+    "question": "Which clinical sign is used to unmask latent tetany using a blood pressure cuff?",
+    "options": ["Chvostek's sign", "Trousseau's sign", "Babinski sign", "Logan bow"],
+    "answer": "Trousseau's sign"
+  },
+  {
+    "question": "What is the recommended dietary intake of Vitamin D for children older than 12 months?",
+    "options": ["400 IU/d", "600 IU/d", "800 IU/d", "1000 IU/d"],
+    "answer": "600 IU/d"
+  },
+  {
+    "question": "Which gastrointestinal finding is common in both Marasmus and Kwashiorkor?",
+    "options": ["Constipation", "Diarrhea", "Increased appetite", "No change"],
+    "answer": "Diarrhea"
+  },
+  {
+    "question": "In the treatment of FTT, 'catch-up growth' requires what percentage of normal caloric requirements?",
+    "options": ["50%", "100%", "150%", "200%"],
+    "answer": "150%"
+  },
+  {
+    "question": "Which of these is a non-nutritional predisposing factor for Marasmus?",
+    "options": ["Over-diluted milk", "Congenital heart malformation", "Scanty breast milk", "Poverty"],
+    "answer": "Congenital heart malformation"
+  },
+  {
+    "question": "Which vitamin deficiency is associated with peripheral neuritis?",
+    "options": ["Vitamin C", "Thiamin (B1)", "Vitamin D", "Vitamin K"],
+    "answer": "Thiamin (B1)"
+  },
+  {
+    "question": "The 'rachitic rosary' refers to beading of the:",
+    "options": ["Spinal column", "Wrist joints", "Costochondral junctions", "Skull"],
+    "answer": "Costochondral junctions"
+  },
+  {
+    "question": "What position should be avoided when diapering a child with scurvy?",
+    "options": ["Prone position", "Side-lying", "Elevating the legs to lift the buttocks", "Elevating the head"],
+    "answer": "Elevating the legs to lift the buttocks"
+  },
+  {
+    "question": "Which diagnostic investigation is primary for rickets?",
+    "options": ["Abdominal Ultrasound", "X-ray of wrist and ankle", "Lumbar puncture", "Urinalysis only"],
+    "answer": "X-ray of wrist and ankle"
+  },
+  {
+    "question": "A lack of Vitamin K in a malnourished child can lead to:",
+    "options": ["Rickets", "Bleeding tendency", "Night blindness", "Scurvy"],
+    "answer": "Bleeding tendency"
+  },
+  {
+    "question": "What is the primary nursing intervention for 'Imbalanced Nutrition' in malnourished children?",
+    "options": ["Measure weight every morning", "Encourage exercise", "Restrict water", "Only give carbohydrates"],
+    "answer": "Measure weight every morning"
+  },
+  {
+    "question": "Which type of FTT involves disordered interactions between child and parents leading to stimulus deprivation?",
+    "options": ["Organic FTT", "Nonorganic FTT", "Metabolic FTT", "Congenital FTT"],
+    "answer": "Nonorganic FTT"
+  }
+]

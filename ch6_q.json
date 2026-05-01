@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Nutritional rickets is primarily caused by a deficiency in which vitamin?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D",
+    "id": "c6_q1"
+  },
+  {
+    "question": "What is 'craniotabes', a clinical manifestation of rickets?",
+    "options": ["A sharp protrusion of the sternum", "Softening of the cranial bones making a cracking sound under pressure", "Bilateral depression where the diaphragm attaches to the ribs", "Enlargement of the epiphyseal wrists and ankles"],
+    "answer": "Softening of the cranial bones making a cracking sound under pressure",
+    "id": "c6_q2"
+  },
+  {
+    "question": "Infantile tetany is characterized by the hyper-irritability of the neuromuscular system due to a lack of which ionized mineral?",
+    "options": ["Iron", "Potassium", "Sodium", "Calcium"],
+    "answer": "Calcium",
+    "id": "c6_q3"
+  },
+  {
+    "question": "Which clinical sign is used to unmask latent tetany by occluding the brachial artery with a blood pressure cuff?",
+    "options": ["Harrison's groove", "Trousseau's sign", "Rachitic rosary", "Pigeon chest"],
+    "answer": "Trousseau's sign",
+    "id": "c6_q4"
+  },
+  {
+    "question": "Scurvy is a nutritional disorder caused by a lack of which water-soluble vitamin?",
+    "options": ["Vitamin C", "Vitamin D", "Vitamin K", "Vitamin E"],
+    "answer": "Vitamin C",
+    "id": "c6_q5"
+  },
+  {
+    "question": "Which of the following is a classic clinical manifestation of scurvy?",
+    "options": ["Bowed legs and knock knees", "Frog position and pseudo paralysis due to subperiosteal hemorrhage", "Monkey face appearance", "High-pitched crowing sound on inspiration"],
+    "answer": "Frog position and pseudo paralysis due to subperiosteal hemorrhage",
+    "id": "c6_q6"
+  },
+  {
+    "question": "Marasmus is a state of progressive weight loss primarily due to a severe deficiency of what?",
+    "options": ["Vitamin D and Calcium", "Proteins, fat, and carbohydrates (inadequate calories)", "Iron and Vitamin B12", "Only protein, with adequate calories"],
+    "answer": "Proteins, fat, and carbohydrates (inadequate calories)",
+    "id": "c6_q7"
+  },
+  {
+    "question": "In 3rd-degree marasmus, the loss of subcutaneous fat reaches the cheeks and chin, resulting in what appearance?",
+    "options": ["Moon face", "Senile (monkey) face", "Pigeon chest", "Palpebral edema"],
+    "answer": "Senile (monkey) face",
+    "id": "c6_q8"
+  },
+  {
+    "question": "Kwashiorkor differs from marasmus primarily because kwashiorkor is caused by a deficiency of:",
+    "options": ["Total calories with adequate protein", "Protein with an adequate supply of calories", "Vitamin C and Iron", "Vitamin D and Calcium"],
+    "answer": "Protein with an adequate supply of calories",
+    "id": "c6_q9"
+  },
+  {
+    "question": "Which of the following is a constant clinical finding in a child with Kwashiorkor?",
+    "options": ["Generalized edema starting in the feet and lower limbs", "Severe dehydration and hypovolemia", "Senile face appearance", "Excessive subcutaneous fat accumulation"],
+    "answer": "Generalized edema starting in the feet and lower limbs",
+    "id": "c6_q10"
+  },
+  {
+    "question": "What is the specialized rehydration formula used to treat dehydration in kwashiorkor?",
+    "options": ["Normal Saline", "RESOMAL", "Ringer's Lactate", "Dextrose 5%"],
+    "answer": "RESOMAL",
+    "id": "c6_q11"
+  },
+  {
+    "question": "Nonorganic Failure to Thrive (FTT) is most commonly caused by:",
+    "options": ["Celiac disease and Cystic fibrosis", "Insufficient calorie intake due to psychological factors or environmental neglect", "Chromosomal abnormalities like Down syndrome", "Inborn errors of metabolism"],
+    "answer": "Insufficient calorie intake due to psychological factors or environmental neglect",
+    "id": "c6_q12"
+  },
+  {
+    "question": "What is the most common type of Cerebral Palsy (CP), affecting about 80% of children with the condition?",
+    "options": ["Dyskinetic CP", "Ataxic CP", "Spastic CP", "Mixed CP"],
+    "answer": "Spastic CP",
+    "id": "c6_q13"
+  },
+  {
+    "question": "Spastic diplegia primarily affects which parts of the body?",
+    "options": ["Only one side of the body (arm and leg)", "All four limbs, the trunk, and the face", "Mainly the legs, with the arms less affected", "Only the facial muscles and tongue"],
+    "answer": "Mainly the legs, with the arms less affected",
+    "id": "c6_q14"
+  },
+  {
+    "question": "Which viral infection during pregnancy can lead to birth defects and increase the risk of cerebral palsy?",
+    "options": ["German measles (rubella)", "Rhinovirus", "Pneumococcus", "Rotavirus"],
+    "answer": "German measles (rubella)",
+    "id": "c6_q15"
+  },
+  {
+    "question": "Down syndrome is also known as:",
+    "options": ["Trisomy 18", "Trisomy 21", "Turner syndrome", "Fragile X syndrome"],
+    "answer": "Trisomy 21",
+    "id": "c6_q16"
+  },
+  {
+    "question": "Which of the following is a common physical feature of a child with Down syndrome?",
+    "options": ["Large, protruding nose", "Two instead of three palm creases (simian crease)", "Exceptionally tall stature", "Large hands with long fingers"],
+    "answer": "Two instead of three palm creases (simian crease)",
+    "id": "c6_q17"
+  },
+  {
+    "question": "What routine laboratory test is indicated annually for a child with Down syndrome to rule out a common associated condition?",
+    "options": ["Liver function tests", "Thyroid-stimulating hormone (TSH) and thyroxine (T4)", "Fasting blood glucose", "Serum calcium levels"],
+    "answer": "Thyroid-stimulating hormone (TSH) and thyroxine (T4)",
+    "id": "c6_q18"
+  },
+  {
+    "question": "Mental retardation, or intellectual disability, is generally characterized by an IQ below what range?",
+    "options": ["100-110", "85-95", "70-75", "50-60"],
+    "answer": "70-75",
+    "id": "c6_q19"
+  },
+  {
+    "question": "A child with an IQ of 35-54 falls under which category of intellectual disability?",
+    "options": ["Mild Intellectual Disability", "Moderate Intellectual Disability", "Severe Intellectual Disability", "Profound Intellectual Disability"],
+    "answer": "Moderate Intellectual Disability",
+    "id": "c6_q20"
+  },
+  {
+    "question": "What percentage of children with mental retardation fall into the 'Mild Intellectual Disability' category?",
+    "options": ["1-2%", "3-4%", "5-10%", "More than 85%"],
+    "answer": "More than 85%",
+    "id": "c6_q21"
+  },
+  {
+    "question": "How should a nurse approach the chronological vs. mental age of a child with an intellectual disability?",
+    "options": ["Treat the child strictly according to their chronological age.", "Treat the child according to their mental age rather than their chronological age.", "Treat the child as an adult to encourage maturity.", "Ignore developmental milestones and focus only on physical growth."],
+    "answer": "Treat the child according to their mental age rather than their chronological age.",
+    "id": "c6_q22"
+  },
+  {
+    "question": "Why is the incidence of rickets greater in late winter and early spring?",
+    "options": ["Because children eat less during cold weather.", "Because of a lack of effective ultraviolet rays from sunshine.", "Because viral infections are more common in winter.", "Because breast milk lacks calcium during these seasons."],
+    "answer": "Because of a lack of effective ultraviolet rays from sunshine.",
+    "id": "c6_q23"
+  },
+  {
+    "question": "Which of the following is a common gastrointestinal manifestation associated with Kwashiorkor?",
+    "options": ["Severe constipation", "Anorexia, vomiting, and diarrhea", "Intestinal obstruction", "Gastric ulcers"],
+    "answer": "Anorexia, vomiting, and diarrhea",
+    "id": "c6_q24"
+  },
+  {
+    "question": "What complication indicates that a child with Marasmus has transitioned to Marasmic-Kwashiorkor?",
+    "options": ["The sudden onset of fever", "The development of edema", "The appearance of a senile face", "A drop in weight below 20%"],
+    "answer": "The development of edema",
+    "id": "c6_q25"
+  },
+  {
+    "question": "When refed too quickly, malnourished bodies can suffer life-threatening complications. What is this called?",
+    "options": ["Kwashiorkor shock", "Refeeding syndrome", "Hypercalcemic crisis", "Malabsorption syndrome"],
+    "answer": "Refeeding syndrome",
+    "id": "c6_q26"
+  },
+  {
+    "question": "What is the recommended dietary intervention for an exclusively breast-fed infant to prevent rickets?",
+    "options": ["400 IU/day of supplemental Vitamin D from birth", "500 mg/day of oral Calcium", "Early introduction of solid starches", "Daily doses of Vitamin C"],
+    "answer": "400 IU/day of supplemental Vitamin D from birth",
+    "id": "c6_q27"
+  },
+  {
+    "question": "Which of the following conditions is an example of an 'organic' cause of Failure to Thrive (FTT)?",
+    "options": ["Poverty and lack of food", "Celiac disease affecting nutrient absorption", "Improperly prepared formula", "Inadequate supply of breast milk due to maternal stress"],
+    "answer": "Celiac disease affecting nutrient absorption",
+    "id": "c6_q28"
+  },
+  {
+    "question": "Which medication is commonly administered to relax contracted, overactive, or stiff muscles in children with Cerebral Palsy?",
+    "options": ["Penicillin", "Digitalis", "Baclofen", "Epinephrine"],
+    "answer": "Baclofen",
+    "id": "c6_q29"
+  },
+  {
+    "question": "What characterizes 'Ataxic' Cerebral Palsy?",
+    "options": ["Stiff muscles and exaggerated reflexes", "Problems with balance and coordination, making walking unsteady", "Slow, writhing, uncontrollable movements", "Severe muscle wasting and weight loss"],
+    "answer": "Problems with balance and coordination, making walking unsteady",
+    "id": "c6_q30"
+  },
+  {
+    "question": "A rapidly increasing head circumference and a bulging anterior fontanelle in an infant are primary signs of:",
+    "options": ["Microcephaly", "Hydrocephalus", "Spina Bifida", "Meningitis"],
+    "answer": "Hydrocephalus",
+    "id": "c6_q31"
+  },
+  {
+    "question": "Adequate maternal intake of which nutrient prior to and during early pregnancy significantly reduces the risk of neural tube defects like Spina Bifida?",
+    "options": ["Iron", "Vitamin C", "Folic acid", "Calcium"],
+    "answer": "Folic acid",
+    "id": "c6_q32"
+  },
+  {
+    "question": "What is the definitive diagnostic procedure for suspected bacterial meningitis in a child?",
+    "options": ["Blood culture", "Electroencephalogram (EEG)", "Lumbar puncture (spinal tap)", "Cranial ultrasound"],
+    "answer": "Lumbar puncture (spinal tap)",
+    "id": "c6_q33"
+  },
+  {
+    "question": "Severe stiffness of the hamstrings causing an inability to straighten the leg when the hip is flexed to 90 degrees is known as:",
+    "options": ["Brudzinski's sign", "Kernig's sign", "Babinski reflex", "Moro reflex"],
+    "answer": "Kernig's sign",
+    "id": "c6_q34"
+  },
+  {
+    "question": "Severe neck stiffness causing a patient's hips and knees to flex when the neck is flexed is known as:",
+    "options": ["Kernig's sign", "Trousseau's sign", "Brudzinski's sign", "Chvostek's sign"],
+    "answer": "Brudzinski's sign",
+    "id": "c6_q35"
+  },
+  {
+    "question": "What is the priority nursing intervention when a child is actively having a tonic-clonic seizure?",
+    "options": ["Insert a tongue blade to prevent biting.", "Restrain the child's arms to prevent injury.", "Turn the child on their side and protect their head.", "Administer oral water to prevent dehydration."],
+    "answer": "Turn the child on their side and protect their head.",
+    "id": "c6_q36"
+  },
+  {
+    "question": "Febrile seizures in children are most strongly associated with:",
+    "options": ["A prolonged low-grade fever.", "A rapid spike in body temperature.", "An underlying diagnosis of epilepsy.", "Severe dehydration."],
+    "answer": "A rapid spike in body temperature.",
+    "id": "c6_q37"
+  },
+  {
+    "question": "Following a mild concussion, the cornerstone of immediate pediatric management is:",
+    "options": ["Immediate return to sports to assess coordination.", "Physical and cognitive rest.", "Prophylactic antiepileptic drugs.", "Intravenous antibiotics."],
+    "answer": "Physical and cognitive rest.",
+    "id": "c6_q38"
+  },
+  {
+    "question": "Chronic ingestion of lead paint chips by a toddler can lead to lead poisoning, medically known as:",
+    "options": ["Plumbism", "Phenylketonuria", "Hemochromatosis", "Wilson's disease"],
+    "answer": "Plumbism",
+    "id": "c6_q39"
+  },
+  {
+    "question": "A severe deficiency in Vitamin A in a developing child is most likely to cause:",
+    "options": ["Scurvy", "Rickets", "Night blindness and xerophthalmia", "Bleeding gums"],
+    "answer": "Night blindness and xerophthalmia",
+    "id": "c6_q40"
+  },
+  {
+    "question": "The early introduction of whole cow's milk (before 12 months of age) is a primary risk factor for developing:",
+    "options": ["Hypercalcemia", "Iron-deficiency anemia", "Vitamin D toxicity", "Celiac disease"],
+    "answer": "Iron-deficiency anemia",
+    "id": "c6_q41"
+  },
+  {
+    "question": "Why is an intramuscular injection of Vitamin K routinely given to newborns?",
+    "options": ["To stimulate early bone growth", "To prevent hemorrhagic disease of the newborn", "To protect against viral infections", "To aid in the digestion of breast milk"],
+    "answer": "To prevent hemorrhagic disease of the newborn",
+    "id": "c6_q42"
+  },
+  {
+    "question": "A child diagnosed with Phenylketonuria (PKU) must strictly adhere to a diet that is low in:",
+    "options": ["Carbohydrates", "Phenylalanine (a protein building block)", "Saturated fats", "Fructose"],
+    "answer": "Phenylalanine (a protein building block)",
+    "id": "c6_q43"
+  },
+  {
+    "question": "A child with Celiac disease must maintain a lifelong diet free of:",
+    "options": ["Lactose", "Sucrose", "Gluten", "Casein"],
+    "answer": "Gluten",
+    "id": "c6_q44"
+  },
+  {
+    "question": "Which of the following is a hallmark characteristic of Autism Spectrum Disorder (ASD)?",
+    "options": ["Progressive muscle weakness", "Deficits in social communication and social interaction", "Uncontrollable physical tics", "Severe visual impairment"],
+    "answer": "Deficits in social communication and social interaction",
+    "id": "c6_q45"
+  },
+  {
+    "question": "Attention-Deficit/Hyperactivity Disorder (ADHD) is characterized by a persistent pattern of:",
+    "options": ["Social withdrawal and mutism", "Inattention and/or hyperactivity-impulsivity", "Physical aggression and theft", "Hallucinations and delusions"],
+    "answer": "Inattention and/or hyperactivity-impulsivity",
+    "id": "c6_q46"
+  },
+  {
+    "question": "A smooth philtrum, thin upper lip, and short palpebral fissures are classic facial features associated with:",
+    "options": ["Down syndrome", "Fetal Alcohol Syndrome (FAS)", "Cerebral Palsy", "Spina Bifida"],
+    "answer": "Fetal Alcohol Syndrome (FAS)",
+    "id": "c6_q47"
+  },
+  {
+    "question": "The World Health Organization (WHO) recommends exclusive breastfeeding for the first:",
+    "options": ["3 months of life", "6 months of life", "9 months of life", "12 months of life"],
+    "answer": "6 months of life",
+    "id": "c6_q48"
+  },
+  {
+    "question": "When introducing solid foods to an infant around 6 months of age, which of the following is traditionally recommended as a first food due to its easily digestible nature and fortification?",
+    "options": ["Cow's milk", "Citrus fruits", "Iron-fortified single-grain cereal", "Egg whites"],
+    "answer": "Iron-fortified single-grain cereal",
+    "id": "c6_q49"
+  },
+  {
+    "question": "Reye's syndrome, which causes swelling in the liver and brain, is strongly linked to the use of which medication during a viral illness in children?",
+    "options": ["Acetaminophen", "Ibuprofen", "Amoxicillin", "Aspirin"],
+    "answer": "Aspirin",
+    "id": "c6_q50"
+  }
+]

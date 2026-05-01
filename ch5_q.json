@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which viruses are the most common cause of the common cold in children?",
+    "options": ["Rhinovirus and corona virus", "Pneumococci and staphylococci", "Hemophilus influenzae and E. coli", "Cytomegalovirus and rubella"],
+    "answer": "Rhinovirus and corona virus",
+    "id": "c5_q1"
+  },
+  {
+    "question": "Why are antibiotics not indicated for treating a common cold?",
+    "options": ["They cause severe allergic reactions in infants.", "The common cold is caused by viruses, not bacteria.", "They increase the risk of lipoid pneumonia.", "They worsen nasal congestion and discharge."],
+    "answer": "The common cold is caused by viruses, not bacteria.",
+    "id": "c5_q2"
+  },
+  {
+    "question": "Which of the following is a recognized complication of acute nasopharyngitis?",
+    "options": ["Celiac disease", "Corneal ulcer", "Otitis media", "Scoliosis"],
+    "answer": "Otitis media",
+    "id": "c5_q3"
+  },
+  {
+    "question": "What is the recommended position for an infant with acute nasopharyngitis to help drain secretions?",
+    "options": ["Supine with the head elevated", "On the abdomen with the foot of the bed raised", "Semi-prone position", "Upright sitting position"],
+    "answer": "On the abdomen with the foot of the bed raised",
+    "id": "c5_q4"
+  },
+  {
+    "question": "Which of the following describes 'croup'?",
+    "options": ["An infection of the middle ear", "A clinical syndrome of laryngitis or laryngotracheobronchitis", "An inflammation of the lung parenchyma", "An acute catarrhal inflammation of the nasal cavity"],
+    "answer": "A clinical syndrome of laryngitis or laryngotracheobronchitis",
+    "id": "c5_q5"
+  },
+  {
+    "question": "Which rare but serious causative agent can cause croup?",
+    "options": ["Corynebacterium diphtheria", "Escherichia coli", "Beta-hemolytic streptococcus", "Staphylococcus aureus"],
+    "answer": "Corynebacterium diphtheria",
+    "id": "c5_q6"
+  },
+  {
+    "question": "What are the classic clinical manifestations of croup?",
+    "options": ["Profuse clear rhinorrhea and sneezing", "Respiratory distress, hoarseness, and inspiratory stridor", "Purulent nasal discharge and diarrhea", "Earache, tinnitus, and vertigo"],
+    "answer": "Respiratory distress, hoarseness, and inspiratory stridor",
+    "id": "c5_q7"
+  },
+  {
+    "question": "What is the primary function of the tonsils?",
+    "options": ["Filtering out ultraviolet rays", "Producing thyroid hormones", "Fighting infection by catching germs that enter the nose or mouth", "Regulating calcium and phosphorus levels"],
+    "answer": "Fighting infection by catching germs that enter the nose or mouth",
+    "id": "c5_q8"
+  },
+  {
+    "question": "What is the appropriate postoperative nursing care for a child who just had a tonsillectomy?",
+    "options": ["Place the child in a semi-prone position to facilitate drainage.", "Administer hot fluids immediately.", "Encourage the child to cough frequently.", "Place the child flat on their back."],
+    "answer": "Place the child in a semi-prone position to facilitate drainage.",
+    "id": "c5_q9"
+  },
+  {
+    "question": "Why are infants and young children especially prone to otitis media?",
+    "options": ["They have an overactive immune system.", "Their Eustachian tubes are relatively wide, straight, and short.", "Their cranial bones are soft and easily compressed.", "They are unable to swallow effectively."],
+    "answer": "Their Eustachian tubes are relatively wide, straight, and short.",
+    "id": "c5_q10"
+  },
+  {
+    "question": "Which of the following is a symptom of Acute Otitis Media in infants?",
+    "options": ["Frog position", "Tendency to rub, hold, or pull the affected ear", "Pigeon chest", "Apathetic and disinterested behavior"],
+    "answer": "Tendency to rub, hold, or pull the affected ear",
+    "id": "c5_q11"
+  },
+  {
+    "question": "What mechanism is responsible for the obstructive symptoms of bronchial asthma?",
+    "options": ["Subperiosteal hemorrhage in the airways", "Inflammation, edema, and spasm of the smooth muscles of the bronchi", "Collection of fluid in the middle ear", "Invasion of the tonsils by beta-hemolytic streptococcus"],
+    "answer": "Inflammation, edema, and spasm of the smooth muscles of the bronchi",
+    "id": "c5_q12"
+  },
+  {
+    "question": "Which drug is considered most effective in treating acute asthmatic attacks?",
+    "options": ["Atropine", "Epinephrine", "Penicillin", "Diazepam"],
+    "answer": "Epinephrine",
+    "id": "c5_q13"
+  },
+  {
+    "question": "Why is atropine generally not used in the treatment of bronchial asthma?",
+    "options": ["It causes severe hypertension.", "It tends to dry up secretions, making them harder to expel.", "It induces severe allergic reactions.", "It suppresses the respiratory center in the brain."],
+    "answer": "It tends to dry up secretions, making them harder to expel.",
+    "id": "c5_q14"
+  },
+  {
+    "question": "Which anatomic distribution of pneumonia is confined mostly within the alveolar walls?",
+    "options": ["Bronchopneumonia", "Lobar pneumonia", "Interstitial pneumonia", "Aspiration pneumonia"],
+    "answer": "Interstitial pneumonia",
+    "id": "c5_q15"
+  },
+  {
+    "question": "According to the criteria for mild pneumonia, what is considered a rapid respiratory rate for an infant less than 2 months old?",
+    "options": ["30 breaths/minute", "40 breaths/minute", "50 breaths/minute", "60 breaths/minute"],
+    "answer": "60 breaths/minute",
+    "id": "c5_q16"
+  },
+  {
+    "question": "Which of the following is a 'danger sign' indicating very severe pneumonia?",
+    "options": ["Sneezing", "Grunting and abnormal sleep", "Clear nasal discharge", "Tinnitus"],
+    "answer": "Grunting and abnormal sleep",
+    "id": "c5_q17"
+  },
+  {
+    "question": "What type of pneumonia is caused by inhaling saliva, food, liquid, or vomit?",
+    "options": ["Bacterial pneumonia", "Viral pneumonia", "Hospital-acquired pneumonia", "Aspiration pneumonia"],
+    "answer": "Aspiration pneumonia",
+    "id": "c5_q18"
+  },
+  {
+    "question": "Why are IV fluids generally contraindicated for all cases of pneumonia unless absolutely necessary?",
+    "options": ["They interact poorly with antibiotics.", "They cause a severe drop in body temperature.", "They cause an excessive load to the heart.", "They lead to severe dehydration."],
+    "answer": "They cause an excessive load to the heart.",
+    "id": "c5_q19"
+  },
+  {
+    "question": "Which of the following is recommended for a child with pneumonia to help expel secretions?",
+    "options": ["Chest percussion (physiotherapy)", "Strict immobilization", "Administration of atropine", "Cold air inhalation"],
+    "answer": "Chest percussion (physiotherapy)",
+    "id": "c5_q20"
+  },
+  {
+    "question": "What is the most common viral cause of bronchiolitis in infants?",
+    "options": ["Adenovirus", "Influenza A", "Respiratory Syncytial Virus (RSV)", "Human Metapneumovirus"],
+    "answer": "Respiratory Syncytial Virus (RSV)",
+    "id": "c5_q21"
+  },
+  {
+    "question": "Which clinical sign is considered a medical emergency indicative of acute epiglottitis?",
+    "options": ["Clear rhinorrhea", "Excessive drooling", "Low-grade fever", "Brassy cough"],
+    "answer": "Excessive drooling",
+    "id": "c5_q22"
+  },
+  {
+    "question": "What is the gold standard diagnostic test for Cystic Fibrosis?",
+    "options": ["Chest X-ray", "Sweat chloride test", "Sputum culture", "Complete blood count"],
+    "answer": "Sweat chloride test",
+    "id": "c5_q23"
+  },
+  {
+    "question": "Children with Cystic Fibrosis require which of the following supplements with meals?",
+    "options": ["Pancreatic enzymes", "Iron drops", "Intravenous fluids", "Beta-blockers"],
+    "answer": "Pancreatic enzymes",
+    "id": "c5_q24"
+  },
+  {
+    "question": "Cystic fibrosis is inherited through which genetic pattern?",
+    "options": ["Autosomal dominant", "X-linked recessive", "Autosomal recessive", "Mitochondrial inheritance"],
+    "answer": "Autosomal recessive",
+    "id": "c5_q25"
+  },
+  {
+    "question": "If a toddler aspirates a foreign body, where is it most likely to lodge?",
+    "options": ["Left mainstem bronchus", "Trachea", "Right mainstem bronchus", "Esophagus"],
+    "answer": "Right mainstem bronchus",
+    "id": "c5_q26"
+  },
+  {
+    "question": "What is the characteristic sound associated with a Bordetella pertussis infection?",
+    "options": ["Expiratory wheeze", "Inspiratory 'whoop'", "Barking seal cough", "Grunting"],
+    "answer": "Inspiratory 'whoop'",
+    "id": "c5_q27"
+  },
+  {
+    "question": "Which of the following is a common environmental trigger for an asthma exacerbation?",
+    "options": ["Sunlight", "Dust mites", "High calcium intake", "Warm temperatures"],
+    "answer": "Dust mites",
+    "id": "c5_q28"
+  },
+  {
+    "question": "Which medication is typically used as a 'rescue' inhaler for acute asthma symptoms?",
+    "options": ["Fluticasone", "Salmeterol", "Albuterol", "Montelukast"],
+    "answer": "Albuterol",
+    "id": "c5_q29"
+  },
+  {
+    "question": "What medication class is considered the first-line 'controller' therapy for persistent asthma?",
+    "options": ["Oral antihistamines", "Inhaled corticosteroids", "Intravenous antibiotics", "Beta-blockers"],
+    "answer": "Inhaled corticosteroids",
+    "id": "c5_q30"
+  },
+  {
+    "question": "A lateral neck X-ray showing the 'steeple sign' is indicative of which condition?",
+    "options": ["Epiglottitis", "Croup (Laryngotracheobronchitis)", "Pneumonia", "Foreign body aspiration"],
+    "answer": "Croup (Laryngotracheobronchitis)",
+    "id": "c5_q31"
+  },
+  {
+    "question": "A lateral neck X-ray showing a 'thumbprint sign' strongly suggests:",
+    "options": ["Epiglottitis", "Bronchitis", "Asthma", "Cystic Fibrosis"],
+    "answer": "Epiglottitis",
+    "id": "c5_q32"
+  },
+  {
+    "question": "Group A beta-hemolytic streptococcus (GABHS) is the primary bacterial cause of:",
+    "options": ["Viral Rhinitis", "Acute pharyngitis/tonsillitis", "Croup", "RSV Bronchiolitis"],
+    "answer": "Acute pharyngitis/tonsillitis",
+    "id": "c5_q33"
+  },
+  {
+    "question": "Untreated GABHS tonsillitis can lead to which serious systemic complication?",
+    "options": ["Rheumatic fever", "Type 1 Diabetes", "Cerebral palsy", "Rickets"],
+    "answer": "Rheumatic fever",
+    "id": "c5_q34"
+  },
+  {
+    "question": "Apnea in an infant is defined as a cessation of breathing lasting longer than:",
+    "options": ["5 seconds", "10 seconds", "20 seconds", "60 seconds"],
+    "answer": "20 seconds",
+    "id": "c5_q35"
+  },
+  {
+    "question": "To reduce the risk of Sudden Infant Death Syndrome (SIDS), what sleep position is recommended?",
+    "options": ["Prone", "Supine (on the back)", "Side-lying", "Elevated at 45 degrees"],
+    "answer": "Supine (on the back)",
+    "id": "c5_q36"
+  },
+  {
+    "question": "A structural weakness of the tracheal walls that causes them to collapse during breathing is called:",
+    "options": ["Bronchiolitis", "Tracheomalacia", "Asthma", "Epiglottitis"],
+    "answer": "Tracheomalacia",
+    "id": "c5_q37"
+  },
+  {
+    "question": "Infants who require prolonged mechanical ventilation and oxygen therapy are at high risk for developing:",
+    "options": ["Bronchopulmonary dysplasia (BPD)", "Cystic fibrosis", "Choanal atresia", "Pertussis"],
+    "answer": "Bronchopulmonary dysplasia (BPD)",
+    "id": "c5_q38"
+  },
+  {
+    "question": "'Allergic shiners' (dark circles under the eyes) and a transverse nasal crease are physical signs of:",
+    "options": ["Acute otitis media", "Allergic rhinitis", "Pneumonia", "Foreign body aspiration"],
+    "answer": "Allergic rhinitis",
+    "id": "c5_q39"
+  },
+  {
+    "question": "Acute bacterial sinusitis is generally suspected when cold symptoms persist without improvement for more than:",
+    "options": ["3 days", "5 days", "10 to 14 days", "21 days"],
+    "answer": "10 to 14 days",
+    "id": "c5_q40"
+  },
+  {
+    "question": "Stridor is a high-pitched respiratory sound that primarily indicates an obstruction in the:",
+    "options": ["Upper airway (larynx or trachea)", "Lower airway (bronchioles)", "Alveoli", "Pleural space"],
+    "answer": "Upper airway (larynx or trachea)",
+    "id": "c5_q41"
+  },
+  {
+    "question": "Wheezing is a musical respiratory sound most commonly associated with an obstruction or narrowing in the:",
+    "options": ["Nasal cavity", "Lower airway (bronchi and bronchioles)", "Pharynx", "Middle ear"],
+    "answer": "Lower airway (bronchi and bronchioles)",
+    "id": "c5_q42"
+  },
+  {
+    "question": "Clubbing of the fingers in a child is a clinical sign of:",
+    "options": ["Acute bacterial infection", "Chronic hypoxia", "Calcium deficiency", "Vitamin C deficiency"],
+    "answer": "Chronic hypoxia",
+    "id": "c5_q43"
+  },
+  {
+    "question": "The use of accessory muscles to breathe, causing the skin to pull in around the ribs, is known as:",
+    "options": ["Cyanosis", "Grunting", "Retractions", "Stridor"],
+    "answer": "Retractions",
+    "id": "c5_q44"
+  },
+  {
+    "question": "What is the normal respiratory rate for a newborn resting quietly?",
+    "options": ["12-20 breaths/minute", "20-30 breaths/minute", "30-60 breaths/minute", "60-80 breaths/minute"],
+    "answer": "30-60 breaths/minute",
+    "id": "c5_q45"
+  },
+  {
+    "question": "A congenital condition where the back of the nasal passage is blocked by bone or tissue is called:",
+    "options": ["Choanal atresia", "Tracheoesophageal fistula", "Cleft palate", "Laryngomalacia"],
+    "answer": "Choanal atresia",
+    "id": "c5_q46"
+  },
+  {
+    "question": "What is the most common cause of congenital stridor in infancy?",
+    "options": ["Croup", "Laryngomalacia", "Epiglottitis", "Asthma"],
+    "answer": "Laryngomalacia",
+    "id": "c5_q47"
+  },
+  {
+    "question": "Sudden onset of absent breath sounds on one side of the chest along with respiratory distress suggests:",
+    "options": ["Pneumothorax", "Mild asthma attack", "Viral rhinitis", "Croup"],
+    "answer": "Pneumothorax",
+    "id": "c5_q48"
+  },
+  {
+    "question": "The Mantoux test (PPD) is a screening tool used to detect exposure to:",
+    "options": ["Respiratory Syncytial Virus", "Tuberculosis", "Pertussis", "Diphtheria"],
+    "answer": "Tuberculosis",
+    "id": "c5_q49"
+  },
+  {
+    "question": "Meconium aspiration syndrome primarily affects which pediatric population?",
+    "options": ["Toddlers", "Premature infants", "Post-term or term newborns", "School-aged children"],
+    "answer": "Post-term or term newborns",
+    "id": "c5_q50"
+  }
+]
