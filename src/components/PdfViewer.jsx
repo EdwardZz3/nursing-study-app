@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { ExternalLink, FileText } from 'lucide-react';
+import { ExternalLink, FileText, Download } from 'lucide-react';
 import { Document, Page, pdfjs } from 'react-pdf';
 import 'react-pdf/dist/Page/AnnotationLayer.css';
 import 'react-pdf/dist/Page/TextLayer.css';
@@ -55,17 +55,27 @@ const PdfViewer = ({ pdfUrl, pdfs, title = "Document" }) => {
           <FileText size={20} color="var(--primary)" />
           <span>{title} {pdfList.length > 1 && `- Part ${activePdfIndex + 1}`}</span>
         </div>
-        <a 
-          href={currentPdf} 
-          target="_blank" 
-          rel="noopener noreferrer"
-          download={title}
-          className="btn-secondary"
-          style={{ padding: '8px 16px', fontSize: '0.875rem' }}
-        >
-          <ExternalLink size={16} />
-          Open / Download
-        </a>
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
+          <a 
+            href={currentPdf} 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="btn-secondary"
+            style={{ padding: '8px 16px', fontSize: '0.875rem' }}
+          >
+            <ExternalLink size={16} />
+            Open in New Tab
+          </a>
+          <a 
+            href={currentPdf} 
+            download={title}
+            className="btn-primary"
+            style={{ padding: '8px 16px', fontSize: '0.875rem' }}
+          >
+            <Download size={16} />
+            Download
+          </a>
+        </div>
       </div>
       
       {pdfList.length > 1 && (
@@ -105,6 +115,7 @@ const PdfViewer = ({ pdfUrl, pdfs, title = "Document" }) => {
               <Page 
                 pageNumber={index + 1} 
                 width={containerWidth ? Math.min(containerWidth, 800) : undefined}
+                devicePixelRatio={Math.max(window.devicePixelRatio || 1, 2)}
                 renderTextLayer={false} 
                 renderAnnotationLayer={false}
                 loading={null}
