@@ -121,7 +121,7 @@ const Subject = () => {
                 <Link to={`/subject/${subject.id}/exam`} style={{ color: 'white', textDecoration: 'underline', fontSize: '0.875rem', marginTop: '8px', display: 'block' }}>Retake Exam</Link>
               </div>
             ) : (
-              <Link to={`/subject/${subject.id}/exam`} className="btn-secondary" style={{ border: 'none', color: 'var(--primary)' }}>
+              <Link to={`/subject/${subject.id}/exam`} className="btn-secondary" style={{ background: 'white', border: 'none', color: 'var(--primary)' }}>
                 Take Final Exam
               </Link>
             )}

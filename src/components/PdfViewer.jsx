@@ -1,20 +1,44 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { ExternalLink, FileText } from 'lucide-react';
+import { Document, Page, pdfjs } from 'react-pdf';
+import 'react-pdf/dist/Page/AnnotationLayer.css';
+import 'react-pdf/dist/Page/TextLayer.css';
+
+pdfjs.GlobalWorkerOptions.workerSrc = new URL(
+  'pdfjs-dist/build/pdf.worker.min.mjs',
+  import.meta.url,
+).toString();
 
 const PdfViewer = ({ pdfUrl, pdfs, title = "Document" }) => {
-  // If we receive an array of PDFs, use it. Otherwise, fallback to an array of one from pdfUrl
   const pdfList = pdfs && pdfs.length > 0 ? pdfs : (pdfUrl ? [pdfUrl] : []);
   const [activePdfIndex, setActivePdfIndex] = useState(0);
+  const [numPages, setNumPages] = useState(null);
+  const [containerWidth, setContainerWidth] = useState(null);
+  const containerRef = useRef(null);
 
-  // Reset active index if the pdfList changes completely (e.g. navigation)
-  React.useEffect(() => {
+  useEffect(() => {
     setActivePdfIndex(0);
   }, [pdfUrl, pdfs]);
+
+  useEffect(() => {
+    const updateWidth = () => {
+      if (containerRef.current) {
+        setContainerWidth(containerRef.current.clientWidth - 32); // 16px padding on each side
+      }
+    };
+    updateWidth();
+    window.addEventListener('resize', updateWidth);
+    return () => window.removeEventListener('resize', updateWidth);
+  }, []);
 
   if (pdfList.length === 0) return null;
 
   const currentPdf = pdfList[activePdfIndex];
   
+  function onDocumentLoadSuccess({ numPages }) {
+    setNumPages(numPages);
+  }
+
   return (
     <div className="card animate-fade-in" style={{ padding: '0', overflow: 'hidden', display: 'flex', flexDirection: 'column', marginBottom: '24px' }}>
       <div style={{ 
@@ -45,13 +69,14 @@ const PdfViewer = ({ pdfUrl, pdfs, title = "Document" }) => {
       </div>
       
       {pdfList.length > 1 && (
-        <div style={{ display: 'flex', borderBottom: '1px solid var(--border-color)', background: '#f8fafc' }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', borderBottom: '1px solid var(--border-color)', background: '#f8fafc' }}>
           {pdfList.map((pdf, idx) => (
             <button
               key={idx}
               onClick={() => setActivePdfIndex(idx)}
               style={{
                 flex: 1,
+                minWidth: '100px',
                 padding: '12px 16px',
                 border: 'none',
                 background: activePdfIndex === idx ? 'white' : 'transparent',
@@ -68,14 +93,25 @@ const PdfViewer = ({ pdfUrl, pdfs, title = "Document" }) => {
         </div>
       )}
       
-      <div style={{ width: '100%', height: '75vh', minHeight: '400px', backgroundColor: '#e2e8f0' }}>
-        <iframe 
-          src={`${currentPdf}#view=FitH`} 
-          title={`${title} Part ${activePdfIndex + 1}`}
-          width="100%" 
-          height="100%" 
-          style={{ border: 'none', display: 'block' }}
-        />
+      <div ref={containerRef} style={{ width: '100%', height: '75vh', backgroundColor: '#e2e8f0', overflowY: 'auto', padding: '16px 0', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+        <Document
+          file={currentPdf}
+          onLoadSuccess={onDocumentLoadSuccess}
+          loading={<div style={{ padding: '20px', color: 'var(--text-muted)' }}>Loading PDF...</div>}
+          error={<div style={{ padding: '20px', color: 'var(--error)' }}>Failed to load PDF. Please download it instead.</div>}
+        >
+          {Array.from(new Array(numPages), (el, index) => (
+            <div key={`page_${index + 1}`} style={{ marginBottom: '16px', boxShadow: 'var(--shadow-md)' }}>
+              <Page 
+                pageNumber={index + 1} 
+                width={containerWidth ? Math.min(containerWidth, 800) : undefined}
+                renderTextLayer={false} 
+                renderAnnotationLayer={false}
+                loading={null}
+              />
+            </div>
+          ))}
+        </Document>
       </div>
     </div>
   );

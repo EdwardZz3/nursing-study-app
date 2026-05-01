@@ -16,7 +16,7 @@ export const subjects = [
         "questions": [
           {
             "id": "c1_q1",
-            "question": "What is defined as a natural increase in physical size of the whole or any part of the body due to an increase in the number of cells? [cite: 13, 14]",
+            "question": "What is defined as a natural increase in physical size of the whole or any part of the body due to an increase in the number of cells?",
             "options": [
               "Development",
               "Maturation",
@@ -27,7 +27,7 @@ export const subjects = [
           },
           {
             "id": "c1_q2",
-            "question": "Which principle of development states that progress occurs from the midline to the peripheral areas? [cite: 53]",
+            "question": "Which principle of development states that progress occurs from the midline to the peripheral areas? ",
             "options": [
               "Cephalocaudal",
               "Proximodistal",
@@ -38,7 +38,7 @@ export const subjects = [
           },
           {
             "id": "c1_q3",
-            "question": "Development involves what kind of change? [cite: 20]",
+            "question": "Development involves what kind of change? ",
             "options": [
               "Quantitative change",
               "Qualitative change",
@@ -49,7 +49,7 @@ export const subjects = [
           },
           {
             "id": "c1_q4",
-            "question": "The neonatal period includes the time from birth through the first how many days of life? [cite: 134]",
+            "question": "The neonatal period includes the time from birth through the first how many days of life?",
             "options": [
               "7 days",
               "14 days",
@@ -60,7 +60,7 @@ export const subjects = [
           },
           {
             "id": "c1_q5",
-            "question": "During the first few days after birth, what percentage of his/her birth weight does the neonate typically lose? [cite: 149]",
+            "question": "During the first few days after birth, what percentage of his/her birth weight does the neonate typically lose? ",
             "options": [
               "1 to 3%",
               "5 to 10%",
@@ -71,7 +71,7 @@ export const subjects = [
           },
           {
             "id": "c1_q6",
-            "question": "What is the normal pulse rate of a newborn? [cite: 156]",
+            "question": "What is the normal pulse rate of a newborn? ",
             "options": [
               "60-80 B/M",
               "80-100 B/M",
@@ -82,7 +82,7 @@ export const subjects = [
           },
           {
             "id": "c1_q7",
-            "question": "Which substance is a cheese-like, greasy, yellowish-white material that covers the newborn's skin? [cite: 174]",
+            "question": "Which substance is a cheese-like, greasy, yellowish-white material that covers the newborn's skin? ",
             "options": [
               "Lanugo hair",
               "Vernix caseosa",
@@ -93,7 +93,7 @@ export const subjects = [
           },
           {
             "id": "c1_q8",
-            "question": "When does the anterior fontanel normally achieve complete closure? [cite: 196]",
+            "question": "When does the anterior fontanel normally achieve complete closure? ",
             "options": [
               "2 to 6 months",
               "6 to 10 months",
@@ -104,7 +104,7 @@ export const subjects = [
           },
           {
             "id": "c1_q9",
-            "question": "Which reflex is demonstrated when a sudden stimulus causes the newborn's arms to fly out and up? [cite: 272]",
+            "question": "Which reflex is demonstrated when a sudden stimulus causes the newborn's arms to fly out and up?",
             "options": [
               "Tonic neck reflex",
               "Startle (Moro) reflex",
@@ -115,7 +115,7 @@ export const subjects = [
           },
           {
             "id": "c1_q10",
-            "question": "The infancy period starts at the end of the first month up to what age? [cite: 357]",
+            "question": "The infancy period starts at the end of the first month up to what age? ",
             "options": [
               "6 months of age",
               "The first year of life",
@@ -126,7 +126,7 @@ export const subjects = [
           },
           {
             "id": "c1_q11",
-            "question": "By what age does an infant typically double their birth weight? [cite: 359]",
+            "question": "By what age does an infant typically double their birth weight?",
             "options": [
               "2-3 months",
               "4-5 months",
@@ -137,7 +137,7 @@ export const subjects = [
           },
           {
             "id": "c1_q12",
-            "question": "At what age does the normal eruption of deciduous (milky) teeth typically start? [cite: 370]",
+            "question": "At what age does the normal eruption of deciduous (milky) teeth typically start? ",
             "options": [
               "3 months",
               "4 months",
@@ -148,7 +148,7 @@ export const subjects = [
           },
           {
             "id": "c1_q13",
-            "question": "At what age can an infant typically sit alone steadily? [cite: 396]",
+            "question": "At what age can an infant typically sit alone steadily? ",
             "options": [
               "4 months",
               "6 months",
@@ -159,7 +159,7 @@ export const subjects = [
           },
           {
             "id": "c1_q14",
-            "question": "According to Erikson, what is the central psychosocial crisis of infancy? [cite: 405, 406]",
+            "question": "According to Erikson, what is the central psychosocial crisis of infancy? ",
             "options": [
               "Autonomy versus shame and doubt",
               "Initiative versus guilt",
@@ -170,7 +170,7 @@ export const subjects = [
           },
           {
             "id": "c1_q15",
-            "question": "The toddler stage is defined as the period covering which ages? [cite: 436]",
+            "question": "The toddler stage is defined as the period covering which ages? ",
             "options": [
               "Birth to 1 year",
               "1 to 3 years",
@@ -181,7 +181,7 @@ export const subjects = [
           },
           {
             "id": "c1_q16",
-            "question": "Why does a toddler often appear \"pot-bellied\"? [cite: 445]",
+            "question": "Why does a toddler often appear \"pot-bellied\"?",
             "options": [
               "Excessive fluid retention",
               "Overfeeding practices",
@@ -192,7 +192,7 @@ export const subjects = [
           },
           {
             "id": "c1_q17",
-            "question": "By 2.5 to 3 years of age, how many deciduous teeth are generally present? [cite: 444]",
+            "question": "By 2.5 to 3 years of age, how many deciduous teeth are generally present? ",
             "options": [
               "10 teeth",
               "16 teeth",
@@ -203,7 +203,7 @@ export const subjects = [
           },
           {
             "id": "c1_q18",
-            "question": "According to Erikson, what psychosocial crisis does a child face between 1 and 3 years of age? [cite: 456]",
+            "question": "According to Erikson, what psychosocial crisis does a child face between 1 and 3 years of age? ",
             "options": [
               "Trust versus mistrust",
               "Autonomy versus shame and doubt",
@@ -214,7 +214,7 @@ export const subjects = [
           },
           {
             "id": "c1_q19",
-            "question": "Which term describes a toddler's desire for independence that results in wanting to do many things they should not do? [cite: 504, 505]",
+            "question": "Which term describes a toddler's desire for independence that results in wanting to do many things they should not do?",
             "options": [
               "Ritualistic behavior",
               "Separation anxiety",
@@ -225,7 +225,7 @@ export const subjects = [
           },
           {
             "id": "c1_q20",
-            "question": "What is the average weight gain per year for a preschool child? [cite: 542]",
+            "question": "What is the average weight gain per year for a preschool child? ",
             "options": [
               "1.5 kg",
               "2.3 kg",
@@ -236,7 +236,7 @@ export const subjects = [
           },
           {
             "id": "c1_q21",
-            "question": "At 5 years of age, which fine motor skill can a preschool child perform well? [cite: 559]",
+            "question": "At 5 years of age, which fine motor skill can a preschool child perform well? ",
             "options": [
               "Ride a bicycle",
               "Build a tower of 3 blocks",
@@ -247,7 +247,7 @@ export const subjects = [
           },
           {
             "id": "c1_q22",
-            "question": "During the preschool years, the vocabulary increases dramatically to more than how many words at the end of 5 years? [cite: 572]",
+            "question": "During the preschool years, the vocabulary increases dramatically to more than how many words at the end of 5 years? ",
             "options": [
               "50 words",
               "300 words",
@@ -258,7 +258,7 @@ export const subjects = [
           },
           {
             "id": "c1_q23",
-            "question": "According to Erikson, the chief psychosocial task of the preschool period (ages 3 to 6) is acquiring a sense of what? [cite: 588, 591]",
+            "question": "According to Erikson, the chief psychosocial task of the preschool period (ages 3 to 6) is acquiring a sense of what? ",
             "options": [
               "Autonomy",
               "Initiative",
@@ -269,7 +269,7 @@ export const subjects = [
           },
           {
             "id": "c1_q24",
-            "question": "What term is defined as the repeated involuntary voiding of urine after control should be established? [cite: 606]",
+            "question": "What term is defined as the repeated involuntary voiding of urine after control should be established?",
             "options": [
               "Encopresis",
               "Enuresis",
@@ -280,7 +280,7 @@ export const subjects = [
           },
           {
             "id": "c1_q25",
-            "question": "The school-age segment of the life span extends from age 6 until what age? [cite: 659]",
+            "question": "The school-age segment of the life span extends from age 6 until what age? ",
             "options": [
               "9 years",
               "10 years",
@@ -291,7 +291,7 @@ export const subjects = [
           },
           {
             "id": "c1_q26",
-            "question": "During the school-age period, what is the average gain in height per year? [cite: 665]",
+            "question": "During the school-age period, what is the average gain in height per year? ",
             "options": [
               "2 cm",
               "4 cm",
@@ -302,7 +302,7 @@ export const subjects = [
           },
           {
             "id": "c1_q27",
-            "question": "According to Erikson, what is the psychosocial crisis faced by a child aged 6 to 12 years? [cite: 688]",
+            "question": "According to Erikson, what is the psychosocial crisis faced by a child aged 6 to 12 years?",
             "options": [
               "Initiative versus guilt",
               "Industry versus inferiority",
@@ -313,7 +313,7 @@ export const subjects = [
           },
           {
             "id": "c1_q28",
-            "question": "According to Piaget, between ages 7 and 11 years, the child is in which stage of cognitive development? [cite: 703]",
+            "question": "According to Piaget, between ages 7 and 11 years, the child is in which stage of cognitive development?",
             "options": [
               "Sensorimotor operations",
               "Pre-conceptual phase",
@@ -324,7 +324,7 @@ export const subjects = [
           },
           {
             "id": "c1_q29",
-            "question": "Adolescence is a transitional period from childhood to adulthood that ends when what is completed? [cite: 735, 737]",
+            "question": "Adolescence is a transitional period from childhood to adulthood that ends when what is completed? ",
             "options": [
               "Somatic growth",
               "Formal education",
@@ -335,7 +335,7 @@ export const subjects = [
           },
           {
             "id": "c1_q30",
-            "question": "What is the average age of onset of puberty for girls? [cite: 742]",
+            "question": "What is the average age of onset of puberty for girls? ",
             "options": [
               "9 years",
               "10 years",
@@ -346,7 +346,7 @@ export const subjects = [
           },
           {
             "id": "c1_q31",
-            "question": "Piaget's \"formal operations\" stage commonly occurs between which ages? [cite: 755]",
+            "question": "Piaget's \"formal operations\" stage commonly occurs between which ages?",
             "options": [
               "2 to 7 years",
               "7 to 11 years",
@@ -357,7 +357,7 @@ export const subjects = [
           },
           {
             "id": "c1_q32",
-            "question": "According to Erikson, what psychosocial crisis do adolescents face between the ages of 13 and 18 years? [cite: 756]",
+            "question": "According to Erikson, what psychosocial crisis do adolescents face between the ages of 13 and 18 years? ",
             "options": [
               "Autonomy versus shame and doubt",
               "Industry versus inferiority",

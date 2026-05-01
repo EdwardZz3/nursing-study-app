@@ -6,7 +6,7 @@ import '../index.css';
 const Navbar = ({ isDark, toggleTheme }) => {
   return (
     <nav className="glass-nav" style={{ padding: '16px 0', marginBottom: '32px' }}>
-      <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+      <div className="container" style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '12px' }}>
         <Link to="/" style={{ display: 'flex', alignItems: 'center', gap: '8px', fontWeight: '700', fontSize: '1.25rem', color: 'var(--primary)' }}>
           <Activity size={24} />
           <span>NurseStudy</span>
