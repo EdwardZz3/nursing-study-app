@@ -19,6 +19,8 @@ const PdfViewer = ({ pdfUrl, pdfs, title = "Document" }) => {
     <div className="card animate-fade-in" style={{ padding: '0', overflow: 'hidden', display: 'flex', flexDirection: 'column', marginBottom: '24px' }}>
       <div style={{ 
         display: 'flex', 
+        flexWrap: 'wrap',
+        gap: '12px',
         justifyContent: 'space-between', 
         alignItems: 'center', 
         padding: '16px 24px',
@@ -33,11 +35,12 @@ const PdfViewer = ({ pdfUrl, pdfs, title = "Document" }) => {
           href={currentPdf} 
           target="_blank" 
           rel="noopener noreferrer"
+          download={title}
           className="btn-secondary"
           style={{ padding: '8px 16px', fontSize: '0.875rem' }}
         >
           <ExternalLink size={16} />
-          Open in New Tab
+          Open / Download
         </a>
       </div>
       
@@ -65,7 +68,7 @@ const PdfViewer = ({ pdfUrl, pdfs, title = "Document" }) => {
         </div>
       )}
       
-      <div style={{ width: '100%', height: '75vh', minHeight: '600px', backgroundColor: '#e2e8f0' }}>
+      <div style={{ width: '100%', height: '75vh', minHeight: '400px', backgroundColor: '#e2e8f0' }}>
         <iframe 
           src={`${currentPdf}#view=FitH`} 
           title={`${title} Part ${activePdfIndex + 1}`}

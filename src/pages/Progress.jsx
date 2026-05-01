@@ -47,9 +47,9 @@ const Progress = () => {
             
             return (
               <div key={subjectId} className="card">
-                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px' }}>
+                <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '12px', marginBottom: '20px' }}>
                   <h2 style={{ fontSize: '1.25rem', margin: 0 }}>{subject.name}</h2>
-                  <div style={{ background: 'var(--bg-color)', padding: '4px 12px', borderRadius: '16px', fontSize: '0.875rem', fontWeight: '600', color: 'var(--primary)' }}>
+                  <div style={{ background: 'var(--bg-color)', padding: '4px 12px', borderRadius: '16px', fontSize: '0.875rem', fontWeight: '600', color: 'var(--primary)', whiteSpace: 'nowrap' }}>
                     {progressPercentage}% Complete
                   </div>
                 </div>

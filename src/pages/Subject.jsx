@@ -70,6 +70,8 @@ const Subject = () => {
                 className="card"
                 style={{ 
                   display: 'flex', 
+                  flexWrap: 'wrap',
+                  gap: '12px',
                   justifyContent: 'space-between', 
                   alignItems: 'center',
                   padding: '20px 24px',
@@ -102,7 +104,7 @@ const Subject = () => {
 
       <div style={{ borderTop: '1px solid var(--border-color)', paddingTop: '40px', paddingBottom: '60px' }}>
         <div className="card" style={{ background: 'var(--primary)', color: 'white', border: 'none' }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+          <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '16px' }}>
             <div>
               <h2 style={{ fontSize: '1.5rem', marginBottom: '8px', color: 'white', display: 'flex', alignItems: 'center', gap: '8px' }}>
                 <Award size={24} /> Final Exam
